@@ -1,6 +1,6 @@
 #location #gsnc 
 
-(*Made by Google Gemini*)
+(*Generated with Google Gemini from a user-provided template; not idependently verified by the GSNC*)
 # The Conjuring House
 **Location**: 1677 Round Top Road, Harrisville, Rhode Island
 **Country**: United States
@@ -26,9 +26,12 @@
 	- Sudden, overpowering smells of rotting flesh or sulfur manifesting in specific rooms without a physical source.
 
 ## Investigations:
-- The Warren Investigation (1973–1974): Renowned demonologists Ed and Lorraine Warren conducted multiple visits. They concluded the home was infested with demonic presence rather than a typical human haunting.
-- The Séance (1974): A highly controversial and volatile séance conducted by the Warrens in the home's living room, during which Carolyn Perron allegedly spoke in tongues and levitated in her chair.
-- Modern Media Investigations: Extensively monitored by modern paranormal groups utilizing specialized equipment (e.g., ITC devices, thermal imaging, and vibration sensors), which document ongoing unexplained anomalies.
+- #### The Warren Investigation (1973–1974): 
+	- Renowned demonologists Ed and Lorraine Warren conducted multiple visits. They concluded the home was infested with demonic presence rather than a typical human haunting.
+- #### The Séance (1974): 
+	- A highly controversial and volatile séance conducted by the Warrens in the home's living room, during which Carolyn Perron allegedly spoke in tongues and levitated in her chair.
+- #### Modern Media Investigations: 
+	- Extensively monitored by modern paranormal groups utilizing specialized equipment (e.g., ITC devices, thermal imaging, and vibration sensors), which document ongoing unexplained anomalies.
 
 ## Entities/Spirits:
 - #### [[Bathsheeba Sherman]]: 

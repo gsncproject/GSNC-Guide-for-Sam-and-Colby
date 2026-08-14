@@ -1,6 +1,6 @@
 #group #gsnc 
 
-(*Made by Google Gemini*)
+(*Generated with Google Gemini from a user-provided template; not idependently verified by the GSNC*)
 # The Perron Family
 **Type**: Human Victims / Historical Witnesses
 **Also Known As**: The Perrons

@@ -1,9 +1,9 @@
 #group #gsnc 
 
-(*Made by Google Gemini*)
+(*Generated with Google Gemini from a user-provided template; not idependently verified by the GSNC*)
 # Ed and Lorraine Warren
 **Type**: Paranormal Investigation Team / Demonologists
-**Also Known As**: The Warrens, New England Society for Psychic Research (NESPR)
+**Also Known As**: The Warrens, New England Society for Psychic Research ([[NESPR]])
 
 **First Mentioned**: [[2021-07-25 - Conjuring House]]
 **Associated Locations**: [[The Conjuring House]], [[The Warrens' Occult Museum]] (Monroe, Connecticut), [[The Amityville Horror House]] (Amityville, New York)
