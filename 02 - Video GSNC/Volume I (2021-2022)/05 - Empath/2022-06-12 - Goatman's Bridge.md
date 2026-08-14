@@ -37,7 +37,7 @@
 >- [[„It‘s time“|„Forever“]]
 >- „Fire“
 >- [[„Master“|„God“]]
->- „Psychic“
+>- [[„Psychic“]]
 
 - The bridge is one of the Top five Demonic Places  
 - There are demons at the bridge 

@@ -30,7 +30,7 @@
 >- [[„It‘s time“|„Time“]] / [[„It‘s time“|„Out of time“]]
 >- [[„Master“|„God“]]
 >- [[„Master“|„Lead“]] 
->- [[„Psychic“]] / „Clairvoyant“
+>- [[„Psychic“]] / „[[„Psychic“|Clairvoyant]]“
 >- [[„Try it“]] / „Don‘t even try“
 
 - The first thing Cory tells them when they arrive is that they are fucked.
