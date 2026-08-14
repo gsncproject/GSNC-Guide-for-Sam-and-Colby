@@ -1,5 +1,6 @@
 #entity #gsnc
 
+(*Made by Google Gemini*)
 # Bathsheeba Sherman 
 **Type**: Real Person 
 **Aliases**: Conjuring Witch

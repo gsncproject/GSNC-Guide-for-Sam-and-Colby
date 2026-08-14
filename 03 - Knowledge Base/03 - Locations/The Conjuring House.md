@@ -1,4 +1,6 @@
 #location #gsnc 
+
+(*Made by Google Gemini*)
 # The Conjuring House
 **Location**: 1677 Round Top Road, Harrisville, Rhode Island
 **Country**: United States

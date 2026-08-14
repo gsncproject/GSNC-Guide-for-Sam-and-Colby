@@ -1,4 +1,6 @@
 #group #gsnc 
+
+(*Made by Google Gemini*)
 # Ed and Lorraine Warren
 **Type**: Paranormal Investigation Team / Demonologists
 **Also Known As**: The Warrens, New England Society for Psychic Research (NESPR)

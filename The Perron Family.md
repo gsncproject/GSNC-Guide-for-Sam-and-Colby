@@ -1,9 +1,11 @@
 #group #gsnc 
+
+(*Made by Google Gemini*)
 # The Perron Family
 **Type**: Human Victims / Historical Witnesses
 **Also Known As**: The Perrons
 
-**First Mentioned**: [[2021-10-31 - Conjuring House (Alone)]]
+**First Mentioned**: [[2021-07-25 - Conjuring House]]
 **Associated Locations**: [[The Conjuring House]]
 
 ## Members:
@@ -31,8 +33,9 @@
 	- The paranormal investigators called in to help the family, though their intervention ultimately escalated the activity.
 
 ## Notes:
-- Duration of Stay: 
+- #### Duration of Stay: 
 	- Despite the horrific events, financial constraints forced the family to live in the haunted farmhouse for ten full years before they could afford to relocate to Georgia in 1880.
-- Literary Documentation: 
+- #### Literary Documentation: 
 	- Andrea Perron wrote the three-volume memoir series House of Darkness House of Light, which serves as the primary primary-source account of the family's experiences.
-- The Séance Trauma: The family remains split on the legacy of the Warrens; while they acknowledge the investigators' intent, the botched 1974 séance left Carolyn severely traumatized and resulted in Roger kicking the Warrens off the property.
+- #### The Séance Trauma: 
+	- The family remains split on the legacy of the Warrens; while they acknowledge the investigators' intent, the botched 1974 séance left Carolyn severely traumatized and resulted in Roger kicking the Warrens off the property.
