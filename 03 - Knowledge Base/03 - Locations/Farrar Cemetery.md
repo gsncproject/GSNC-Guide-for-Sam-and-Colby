@@ -2,6 +2,7 @@
 aliases:
   - Historic Farrar Cemetery
   - Washington Township Cemetery
+dg-publish: true
 ---
 #location #gsnc 
 

@@ -2,6 +2,7 @@
 aliases:
   - Victoria's Black Swan Inn
   - The Black Swan Inn
+dg-publish: true
 ---
 #location #gsnc 
 

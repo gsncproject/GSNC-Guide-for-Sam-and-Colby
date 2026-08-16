@@ -1,13 +1,12 @@
 ---
-type: location
-tags: 
-  - location
-  - gsnc
 aliases:
   - Historic Bowers Mansion
   - The Haunted Bowers Mansion
+dg-publish: true
 ---
+#location #gsnc 
 
+(*Generated with Google Gemini from a user-provided template; not idependently verified by the GSNC*)
 # Historic Bowers Mansion
 **Location**: 301 S. Magnolia Street, Palestine, Anderson County, Texas
 **Country**: United States

@@ -2,6 +2,7 @@
 aliases:
   - Dracula's Castle
   - Castelul Bran
+dg-publish: true
 ---
 #location #gsnc 
 

@@ -3,6 +3,7 @@ aliases:
   - Lord of the Flies
   - Baal Zebub
   - Baal Zevel
+dg-publish: true
 ---
 #entity #gsnc
 
