@@ -61,6 +61,7 @@
 - [[Bathsheeba Sherman]]
 - [[The Perron Family]]
 - [[2021-07-25 - Conjuring House]]
+- [[2021-10-31 - Conjuring House (Alone)]]
 
 ## Notes:
 - #### Historical Discrepancy: 

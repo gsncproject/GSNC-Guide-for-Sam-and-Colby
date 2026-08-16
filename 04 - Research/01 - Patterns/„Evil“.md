@@ -16,7 +16,7 @@
 - [[The Conjuring House]]
 - [[The Bran Castle]]
 - [[The Indiana State Sanatorium]]
-- [[The Haunted Factory]]
+- [[The Wangi Wangi Factory]]
 ## Variations:
 ## Notes:
 ## Status:

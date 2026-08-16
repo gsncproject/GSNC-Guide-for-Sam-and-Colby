@@ -1,5 +1,4 @@
 #location #gsnc
-
 # {{Location}}
 **Location**:
 **Country**:

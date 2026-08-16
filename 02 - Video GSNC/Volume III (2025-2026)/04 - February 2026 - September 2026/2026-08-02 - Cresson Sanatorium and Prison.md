@@ -24,11 +24,12 @@
 >- Celina hears Sam‘s voice but the Spirit Bridge answers with „That‘s not my name“
 >———
 >**Patterns**:
->- „Fourteen“ / „Five minutes“ / „Five“
+>- „Fourteen“ / „Five minutes“ / [[„Five“]]
 >- Birds
 >- „Forget“
 >- [[„It‘s time“|„Forever“]]
 >- „Because he‘s locking the doors forever“
+>- [[„Basement“]]
 
 *(First off I never thought I‘d see the day SnC collab with Garrett. And that scares me.)*
 

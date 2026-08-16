@@ -13,7 +13,7 @@
 >- [[Flora Stanley]] 
 >- [[Elizabeth Wilson]] 
 >- [[Sallie Lucy|Lucy]] (Minion)
->- Hell Hounds 
+>- [[Hell Hounds]] 
 >- [[Paul (the janitor)]]
 >- [[Dennis (shadow figure)]]
 >- [[Eddie (smelly guy)]]
@@ -28,12 +28,12 @@
 >**Patterns**:
 >- [[„Music“]]
 >- [[„It‘s me“|„Me“]] / [[„It‘s me“|„It‘s been me“]] / [[„It‘s me“|„I‘ve been here“]]
->- „Friend“ / „Friends“
+>- [[„Friend“]] / [[„Friend“|„Friends“]]
 >- It mostly responds to Sam 
->- „Nine“ / „Four of them“ / „Been here twenty years“
+>- [[„Nine“]] / [[„Four“|„Four of them“]] / [[„Twenty“|„Been here twenty years“]]
 >- [[„Focus“|„Relax“]] / [[„Focus“|„Breathe“]]
->- „Basement“
->- „Energy“
+>- [[„Basement“]]
+>- [[„Energy“]]
 
 Amanda thinks that Sam had an attachment pre-Conjuring House (1) because it was already with him as she met them for the first time.
 

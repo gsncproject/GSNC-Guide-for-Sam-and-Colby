@@ -13,6 +13,7 @@
 >- [[Steve (KKK Leader)]]
 >- [[Oscar Washburn]] 
 >- Children Spirits 
+>- [[Egregore]] 
 >———
 >**Important Events**:
 >- Colby mentions Egregore 
@@ -27,15 +28,15 @@
 >**Patterns**:
 >- Women get targeted 
 >- [[„Master“|„Leader“]]
->- „Basement“
+>- [[„Basement“]]
 >- [[„Unlock“]]
 >- [[„Close the door“|„Locked in“]]
->- „Elemental“
->- [[„Seven“]] / „Two“
+>- [[„Elemental“]]
+>- [[„Seven“]] / [[„Two“]]
 >- [[„It‘s me“|„Me“]] / [[„It‘s me“|„It‘s not me“]]
->- „Lady“
+>- [[„Lady“]]
 >- [[„It‘s time“|„Forever“]]
->- „Fire“
+>- [[„Fire“]]
 >- [[„Master“|„God“]]
 >- [[„Psychic“]]
 

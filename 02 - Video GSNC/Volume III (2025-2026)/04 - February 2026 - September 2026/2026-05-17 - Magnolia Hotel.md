@@ -9,22 +9,22 @@
 
 >[!Quick Summary]
 >**Entites/Spirits**:
->- James Campbell 
->- Emma Voelcker 
->- Helene Faust 
->- Sara (heartbreak c.o.d)
->- Shadow Figures 
->- Rosebud (prosititue)
->- John (Magnolia)
->- Jenny (Magnolia)
->- William Faust / Bill / Will 
->- Mr. Deavors 
->- Cowboy (courtyard)
->- Mike (unknown)
->- Mark (unknown)
->- Isabella (evil basement entity)
->- Itzy (like the spider-song)
->- (Sallie)
+>- [[James Campbell]] 
+>- [[Emma Voelcker]] 
+>- [[Helene Faust]] 
+>- [[Sara (heartbreak c.o.d)]]
+>- [[Shadow Figures]] 
+>- [[Rosebud (prosititute)]]
+>- [[John (Magnolia)]]
+>- [[Jenny (Magnolia)]]
+>- [[William Faust]] / Bill / Will 
+>- [[Mr. Deavors]] 
+>- [[Cowboy (courtyard, Magnolia)]]
+>- [[Mike (unknown)]]
+>- [[Mark (unknown)]]
+>- [[Isabella (evil basement entity)]]
+>- [[Itzy]] (like the spider-song)
+>- ([[Sallie Lucy|Sallie]])
 >———
 >**Important Events**:
 >- Colby keeps adding new lore like nothing happened 
@@ -33,7 +33,7 @@
 >- The camera light turns off, and after Sam asks it to do it again it turns off again 
 >———
 >**Patterns**:
->- Twenty-Seven / Thirteen / „Third“ / „Two“
+>- Twenty-Seven / Thirteen / „Third“ / [[„Two“]]
 >- „Birds“
 >- [[„Monument“]]
 >- „Devil“

@@ -15,7 +15,7 @@
 >- Sam takes a Thermo Picture of some „kind of“ blob in a window (the window of the principals office)
 >———
 >**Patterns**:
->- „Eight“ / „Three“
+>- „Eight“ / [[„Three“]]
 >- „The basement“
 >- [[„It‘s me“|„Me“]]
 >- „Remember“

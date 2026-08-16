@@ -27,10 +27,10 @@
 >- Sam sits on the burnt pentagram in the basement 
 >———
 >**Patterns**:
->- [[„Seven“]] / [[„Six“]] / „Four“
+>- [[„Seven“]] / [[„Six“]] / [[„Four“]]
 >- [[„Move“]]
 >- [[„Music“]]
->- „Fire“
+>- [[„Fire“]]
 >- [[„Falling down“|„Fall“]]
 
 - A little girl named Sallie haunts this house and it might actually not be a little girl but an evil spirit disguising itself 

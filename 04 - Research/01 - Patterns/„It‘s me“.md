@@ -53,7 +53,7 @@ aliases:
 - [[The Trans-Allegheny Lunatic Asylum]]
 - [[The St. Augustine Lighthouse]]
 - [[The Farrar Elementary School]]
-- [[The Haunted Factory]]
+- [[The Wangi Wangi Factory]]
 - [[The Magnolia Hotel]]
 ## Variations:
 - „Me“

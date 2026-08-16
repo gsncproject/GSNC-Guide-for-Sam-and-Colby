@@ -9,7 +9,7 @@
 >[!Quick Summary]
 >**Entities/Spirits**:
 >- [[Don Juan Bandini]] 
->- [[Ysidora Bandini]]
+>- [[Yisdora Bandini]]
 >- [[Carlos (the guitarist)]]
 >- [[Cowboy (Cosmo)]]
 >- Unnamed girl (twelve years old)
@@ -22,7 +22,7 @@
 >- They‘ll do Scrying in a DIY-Psychomanteum
 >———
 >**Patterns**:
->- „Three or four“ / [[„Seven“]] / „Eight-Hundred“ / „Thirty“ / „Five“ / [[„Six“]]
+>- „Three or four“ - [[„Three“]] & [[„Four“]] / [[„Seven“]] / [[„Eight-Hundred“]] / [[„Thirty“]] / [[„Five“]] / [[„Six“]]
 >- [[„Move“|„Move on“]]
 >- [[„It‘s time“|„Time“]] / [[„It‘s time“|„Forever“]]
 >- [[„Unlock“]]

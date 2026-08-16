@@ -24,8 +24,9 @@
 >- „Sacer Rez“ / „Oremace“
 >- [[„Casket“]]
 >- [[„It‘s me“|„It is me“]] / [[„It‘s me“|„Me“]]
->- „Five“
+>- [[„Five“]]
 >- [[„Master“|„God“]]
+>- [[„Energy“]]
 
 Hauntings: Stacie (died from „Unknown Causes“)
 
