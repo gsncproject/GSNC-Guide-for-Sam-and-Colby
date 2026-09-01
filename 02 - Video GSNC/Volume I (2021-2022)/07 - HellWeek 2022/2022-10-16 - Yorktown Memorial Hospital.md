@@ -12,11 +12,11 @@ dg-publish: true
 
 >[!Quick Summary]
 >**Entities/Spirits**:
->- Stacie (Yorktown) 
+>- [[Stacie (Yorktown)]] 
 >- Nuns (who hate Tattoos)
->- Debbie (Nurse)
+>- [[Debbie (Nurse)]]
 >- (Mary)
->- Dr. Novarnski 
+>- [[Dr. Novarnski]] 
 >- [[Priest (Yorktown)]]
 >———
 >**Important Events**:
