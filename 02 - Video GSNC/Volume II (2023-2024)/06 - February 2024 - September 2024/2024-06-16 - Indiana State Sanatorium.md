@@ -12,9 +12,9 @@ dg-publish: true
 
 >[!Quick Summary]
 >**Entities/Spirits**:
->- Hat Man
->- Shadow Figures
->- Steven (Shadow Figure)
+>- [[The Hat Man (Indiana State San.)]]
+>- [[Shadow Figures]]
+>- [[Steven (Shadow Figure)]]
 >———
 >**Important Events**:
 >- During the Estes Method Colby is outside with the Thermo and notices that one window has a complete different temperature.

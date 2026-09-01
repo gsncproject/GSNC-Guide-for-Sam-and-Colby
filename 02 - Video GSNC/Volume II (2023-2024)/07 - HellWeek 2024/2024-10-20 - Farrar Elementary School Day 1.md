@@ -12,7 +12,7 @@ dg-publish: true
 
 >[!Quick Summary]
 >**Entities/Spirits**:
->- Shadow Figures 
+>- [[Shadow Figures]] 
 >- Poltergeists
 >- Tricksters 
 >- A Janitor 

@@ -34,7 +34,7 @@ dg-publish: true
 >- [[„Master“|„God“]]
 >- [[„Master“|„Lead“]] 
 >- [[„Psychic“]] / „[[„Psychic“|Clairvoyant]]“
->- [[„Try it“]] / [[„Try it“|„Don‘t even try“]]
+>- [[„Try it“ 1]] / [[„Try it“ 1|„Don‘t even try“]]
 >- [[„Earth“]]
 >- [[„Nine“]]
 

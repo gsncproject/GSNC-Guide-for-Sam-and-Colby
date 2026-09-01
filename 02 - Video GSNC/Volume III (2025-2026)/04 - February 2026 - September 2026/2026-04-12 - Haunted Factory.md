@@ -12,8 +12,8 @@ dg-publish: true
 
 >[!Quick Summary]
 >**Entites/Spirits**:
->- Irene McColl 
->- Arthur (man found in Boiler Room)
+>- [[Irene McColl]] 
+>- [[Arthur (man found in Boiler Room)]]
 >———
 >**Important Events**:
 >- Lots of disembodied voices 
