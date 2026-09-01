@@ -1,4 +1,9 @@
-Lucy hat us die ganze Zeit verarscht und so getan als sei sie die vier Mary‘s. 
-Sie ist unser fucking attachment.
-Sie ist ein Demon von Anfang an gewesen und seit wir bei der Unterführung waren und mit ihr geredet haben. 
-Jemand hat uns gewarnt aber wir haben es ignoriert.
+---
+dg-publish: true
+---
+#gsnc #v1 
+
+- Lucy fooled us the whole time and pretended to be the four Mary's.
+- She's our fucking attachment.
+- She has been a demon from the beginning and since we were at the underpass and talked to her.
+- Someone warned us but we ignored it.
