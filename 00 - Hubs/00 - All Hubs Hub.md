@@ -14,4 +14,8 @@ dg-publish: true
 ## Research
 - 00 - Research Hub
 - 01 - Theory Hub 
-- 02 - Timeline
+- 02 - Timeline Hub 
+- 03 - Connections Hub
+## Project 
+- 00 - Progress Hub 
+- 01 - Sources Hub 
