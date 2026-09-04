@@ -22,3 +22,6 @@ dg-publish: true
 - [[Pendle Hill]]
 - [[Paris Catacombs]]
 - [[Smurl House]]
+## November 2025 - December 2025
+- [[FazeRug's House]]
+- [[SK Pierce Mansion]]
