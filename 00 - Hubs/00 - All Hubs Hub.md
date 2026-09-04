@@ -9,4 +9,9 @@ dg-publish: true
 - 00 - Entity Hub
 - 01 - Location Hub
 - 02 - People Hub
-- 03 - Equipment
+- 03 - Equipment Hub 
+- 04 - Pattern Hub 
+## Research
+- 00 - Research Hub
+- 01 - Theory Hub 
+- 02 - Timeline
