@@ -18,4 +18,9 @@ dg-publish: true
 - [[Crescent Hotel]]
 - [[2022-06-12 - Goatman's Bridge]]
 - [[Bowers Mansion]]
-- 
+- [[2022-06-26 - Black Swan Inn]]
+- [[2022-07-03 - Cosmo Hotel]]
+## UK Trilogy pt. 1
+- [[Spike Island]]
+- [[Leap Castle]]
+- [[Shadow Man Manor]]
