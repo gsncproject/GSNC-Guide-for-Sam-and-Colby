@@ -26,4 +26,3 @@
 	- [[Zak Bagans Haunted Museum (Return)]]
 	- [[Robert the Doll Museum (Return)]]
 	- [[Warren Museum]]
-- 
