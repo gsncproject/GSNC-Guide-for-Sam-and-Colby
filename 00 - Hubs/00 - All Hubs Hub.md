@@ -6,8 +6,9 @@
 - #### Version 2 (2022-2022)
 - #### Version xy (2025-)
 	- 00 - Version xy Notes Hub
-## Volume 1 (2021-2022)
-- 00 - Volume 1 Hub
-## Volume 2 (2023-2023)
-- 00 - Volume 1 Hub
-## Volume 3 
+## Volume I (2021-2022)
+- 00 - Volume I Hub
+## Volume II (2023-2024)
+- 00 - Volume II Hub
+## Volume III (2025-2026)
+- Volume III Hub
