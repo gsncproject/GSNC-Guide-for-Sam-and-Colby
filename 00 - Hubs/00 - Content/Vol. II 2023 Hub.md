@@ -7,4 +7,7 @@ dg-publish: true
 - Savannah Video 
 	- [[Moon River Brewing Company]]
 	- [[Sorrel-Weed House]]
-- Ton
+- Tonopah Hotels 
+	- [[Clown Motel]]
+	- [[Mizpah Hotel (Return)]]
+	- [[Goldfield Hotel]]
