@@ -24,7 +24,7 @@ dg-publish: true
 >- [[„Evil“]]
 >- [[„Gateway“|„Portal“]] / [[„Gateway“]]
 >- [[„Five“|„Five minutes remain“]] / [[„Five“|„In the fifth“]]
->- „Holy Spirit“
+>- [[„Holy Spirit“]]
 ## Facts:
 - It was a hospital treating tuberculosis, psych ward, and nursing home.
 - "Needless to say the Adams Hall is the most active building in the entire complex" - Colby Brock
