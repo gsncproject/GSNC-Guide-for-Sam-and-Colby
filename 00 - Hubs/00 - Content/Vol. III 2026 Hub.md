@@ -11,3 +11,6 @@ dg-publish: true
 - [[Sam and Colby's House]]
 - [[2026-04-12 - Haunted Factory]]
 - [[2026-05-17 - Magnolia Hotel]]
+- [[Pennhurst Asylum]]
+- [[Appalachian Mountains]]
+- [[2026-08-02 - Cresson Sanatorium and Prison]]
