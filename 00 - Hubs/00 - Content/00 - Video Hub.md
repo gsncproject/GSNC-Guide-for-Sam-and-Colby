@@ -12,4 +12,4 @@ dg-publish: true
 - [[Vol. II 2024 Hub]]
 ## Volume III
 - [[Vol. III 2025 Hub]]
-- [[Vol. III 2026 Hub]]
+- [[Vol. III 2026 Hub 1]]
