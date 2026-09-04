@@ -12,4 +12,4 @@
 	- [[Farnsworth House]]
 	- [[Jenny Wade House]]
 	- [[Old Orphanage]]
-- Excorcist House
+- [[Hinsdale House]]
