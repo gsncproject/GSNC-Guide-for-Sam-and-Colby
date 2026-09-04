@@ -12,7 +12,7 @@
 	- [[Farnsworth House]]
 	- [[Jenny Wade House]]
 	- [[Old Orphanage]]
-- [[Hinsdale House]]
+- 
 ## HellWeek 2024 
 - [[2024-10-20 - Farrar Elementary School Day 1]]
 - [[2024-10-20 - Farrar Elementary School Day 2]]
