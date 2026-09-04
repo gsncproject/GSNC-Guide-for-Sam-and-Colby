@@ -11,7 +11,7 @@ dg-publish: true
 ## Appearances:
 - [[2021-10-17 - Bran Castle]]
 - [[2021-10-19 - Ukraine Catacombs]]
-- [[2021-12-05 - Villisca Axe Murder House]]
+- [[Villisca Axe Murder House]]
 - [[2021-12-19 - Sallie House]]
 - [[2022-06-26 - Black Swan Inn]]
 - [[2022-10-16 - Yorktown Memorial Hospital]]

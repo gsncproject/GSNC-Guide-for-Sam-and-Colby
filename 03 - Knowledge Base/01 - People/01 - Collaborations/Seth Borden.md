@@ -14,7 +14,7 @@ dg-publish: true
 - [[2021-08-15 - Saratoga County Hospital]]
 - [[2021-10-24 - Pine Barrens]]
 - [[2021-10-31 - Conjuring House (Alone)]]
-- [[2021-12-05 - Villisca Axe Murder House]]
+- [[Villisca Axe Murder House]]
 - [[2021-12-19 - Sallie House]]
 - [[2022-10-16 - Yorktown Memorial Hospital]]
 ## Mentioned In:

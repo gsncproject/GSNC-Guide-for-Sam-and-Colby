@@ -17,7 +17,7 @@ dg-publish: true
 - [[2021-10-19 - Ukraine Catacombs]]
 - [[2021-10-24 - Pine Barrens]]
 - [[2021-10-31 - Conjuring House (Alone)]]
-- [[2021-12-05 - Villisca Axe Murder House]]
+- [[Villisca Axe Murder House]]
 - [[2021-12-19 - Sallie House]]
 - [[2022-04-16 - The Stanley Hotel (Return)]]
 - [[2022-06-12 - Goatman's Bridge]]
