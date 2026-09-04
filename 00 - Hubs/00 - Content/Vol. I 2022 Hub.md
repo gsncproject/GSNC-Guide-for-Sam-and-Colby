@@ -31,4 +31,7 @@ dg-publish: true
 - [[2022-10-23 - Trans-Allegheny Lunatic Asylum]]
 - [[Old Washoeclub]]
 - [[Bell Witch Cave]]
-- 
+- [[Winchester Mystery House (Return)]]
+## December 2022 
+- [[Robert the Doll Museum]]
+- [[2022-12-21 - St. Augustine Lighthouse]]
