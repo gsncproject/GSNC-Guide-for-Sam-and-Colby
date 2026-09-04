@@ -16,4 +16,5 @@ dg-publish: true
 - [[Waverly Hills Sanatorium]]
 - [[2021-10-31 - Conjuring House (Alone)]]
 ## November 2021 - December 2021 
-- 
+- [[Villisca Axe Murder House]]
+- [[2021-12-19 - Sallie House]]
