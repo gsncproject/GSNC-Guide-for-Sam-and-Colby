@@ -13,4 +13,3 @@ dg-publish: true
 - [[2021-10-19 - Ukraine Catacombs]]
 - [[2021-10-24 - Pine Barrens]]
 - [[2021-10-31 - Conjuring House (Alone)]]
-- 
