@@ -21,4 +21,9 @@
 - [[Farrar Elementary School Day 5]]
 - [[Farrar Elementary School Day 6]]
 - [[Farrar Elementary School Day 7]]
+## December 2024 
+- **Traumatic Museums**
+	- [[Zak Bagans Haunted Museum (Return)]]
+	- [[Robert the Doll Museum (Return)]]
+	- [[Warren Museum]]
 - 
