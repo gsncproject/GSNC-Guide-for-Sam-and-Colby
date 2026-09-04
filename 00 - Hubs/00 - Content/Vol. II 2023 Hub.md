@@ -24,4 +24,8 @@ dg-publish: true
 - [[Conjuring House Day 3]]
 - [[Conjuring House Day 4]]
 - [[Conjuring House Day 5]]
-- 
+- [[Conjuring House Day 6]]
+- [[Conjuring House Day 7]]
+## December 2023
+- [[Celina's House]]
+- [[Mineral Springs Hotel]]
