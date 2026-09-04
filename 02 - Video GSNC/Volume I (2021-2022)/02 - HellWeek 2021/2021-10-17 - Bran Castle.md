@@ -30,7 +30,7 @@ dg-publish: true
 >- [[„Falling down“]]
 >- [[„Maybe“]] 
 >- [[„Prisoner“|„Stuck“]]
->- [[„Try it“ 1]]
+>- [[„Try it“]]
 
 - Vlad the Impaler was executed there
 - They find a giant ass owl
