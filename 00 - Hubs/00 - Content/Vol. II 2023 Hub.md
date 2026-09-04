@@ -4,6 +4,7 @@ dg-publish: true
 #hub #vol_II 
 
 ## February 2023 - May 2023 
+- [[Whaley House]]
 - Savannah Video 
 	- [[Moon River Brewing Company]]
 	- [[Sorrel-Weed House]]
@@ -11,3 +12,5 @@ dg-publish: true
 	- [[Clown Motel]]
 	- [[Mizpah Hotel (Return)]]
 	- [[Goldfield Hotel]]
+## UK Trilogy pt. 2 
+- [[Ancient Ram Inn]]
