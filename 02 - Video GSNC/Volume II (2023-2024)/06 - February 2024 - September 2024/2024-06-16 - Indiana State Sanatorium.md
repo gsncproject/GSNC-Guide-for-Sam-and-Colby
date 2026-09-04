@@ -23,7 +23,7 @@ dg-publish: true
 >**Patterns**:
 >- [[„Evil“]]
 >- [[„Gateway“|„Portal“]] / [[„Gateway“]]
->- „Five minutes remain“ / „In the fifth“
+>- [[„Five“|„Five minutes remain“]] / [[„Five“|„In the fifth“]]
 >- „Holy Spirit“
 ## Facts:
 - It was a hospital treating tuberculosis, psych ward, and nursing home.
