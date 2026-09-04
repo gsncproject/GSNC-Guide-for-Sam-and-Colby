@@ -12,4 +12,8 @@ dg-publish: true
 - [[2021-10-17 - Bran Castle]]
 - [[2021-10-19 - Ukraine Catacombs]]
 - [[2021-10-24 - Pine Barrens]]
+- [[Hotel Del Coronado]]
+- [[Waverly Hills Sanatorium]]
 - [[2021-10-31 - Conjuring House (Alone)]]
+## November 2021 - December 2021 
+- 
