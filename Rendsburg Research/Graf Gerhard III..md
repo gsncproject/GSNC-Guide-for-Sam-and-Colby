@@ -1,6 +1,7 @@
 #person #rendsburg
 
-# Graf Gerhard III
+(*Generated with Google Gemini from a user-provided template; not idependently verified by the GSNC*)
+# Graf Gerhard III.
 >[!infobox]  
 >**Born**: c. 1292/1293
 >**Died**: 1 April 1340, Randers, Jutland

@@ -58,8 +58,8 @@
 - [ ] — Kanal-Fußgängertunnel
 - [ ] — NS-Era Rendsburg 1933-1945
 - [ ] — Rendsburg‘s 1945 British Occupation 
-- [ ] — [[Graf Gerhard III]]
-- [ ] — [[Graf Adolf II von Schauenburg]]
+- [ ] — [[Graf Gerhard III.]]
+- [ ] — [[Graf Adolf II. von Schauenburg]]
 - [ ] — Graf Adolf III
 - [ ] — Prinz Björn
 - [ ] — Generalmajor Henrick Ruse
