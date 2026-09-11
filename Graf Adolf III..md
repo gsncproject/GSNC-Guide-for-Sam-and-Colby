@@ -53,15 +53,11 @@ After Heinrich the Lion’s fall, Adolf III. allied himself with Emperor Friedri
 He also participated in the Third Crusade, travelling to the Holy Land in 1189. He later returned to northern Europe and continued his political and military conflicts with Denmark.
 
 The struggle with Denmark eventually turned against him. In 1200, Danish King Knud VI. took control of the rebuilt Rendsburg castle. In 1201, Adolf III. was defeated by Duke Waldemar of Schleswig at the Battle of Stellau and was subsequently captured. ([Deutsche Biographie](https://www.deutsche-biographie.de/sfz42182.html?utm_source=chatgpt.com))
-
-Industrial Connection
-
+## Industrial Connection
 None directly.
 
 Adolf III. lived centuries before Rendsburg’s industrial development. His connection to the city is primarily medieval, political, military and architectural.
-
-Notable Events
-
+## Notable Events
 - 1160 — Adolf III. is born.
 - 1164 — He succeeds his father, Adolf II., as Count of Holstein and Stormarn.
 - 1180s — Adolf III. becomes involved in the political struggle following the fall of Heinrich the Lion.
@@ -72,9 +68,7 @@ Notable Events
 - 1201 — Adolf III. is defeated at Stellau and captured.
 - 1203 — Adolf III. gives up his claims to Holstein in exchange for his release.
 - 1225 — Adolf III. dies at Schauenburg.
-
-Documented Information
-
+## Documented Information
 - Adolf III. was born in 1160 and died on 3 January 1225.
 - He was the son of Adolf II. von Schauenburg.
 - He ruled as Count of Holstein and Stormarn from 1164.
@@ -88,9 +82,7 @@ Documented Information
 - Adolf III. was defeated and captured at Stellau in 1201.
 - He renounced his claims to Holstein in 1203 in exchange for his freedom.
 - He died in his ancestral territory of Schauenburg in 1225. ([Deutsche Biographie](https://www.deutsche-biographie.de/sfz42182.html?utm_source=chatgpt.com))
-
-Local Accounts
-
+## Local Accounts
 The most important Rendsburg tradition connected to Adolf III. concerns the medieval castle.
 
 Rendsburg’s historical tradition presents the development as a sequence:
@@ -100,16 +92,12 @@ Prinz Björn → Adolf II. → Adolf III. → Reinholdsburg → Rendsburg
 According to the city’s history, Adolf III.’s rebuilding of the castle in 1199 was followed by its capture and completion by Knud VI. in 1200. The castle then became a permanent stronghold, around which settlement on the neighboring island developed. ([Rendsburg](https://www.rendsburg.de/stadt-geschichte/stadtportrait/stadtgeschichte?utm_source=chatgpt.com))
 
 There is currently no specific ghost story about Adolf III. that is being treated as established local folklore in this archive.
-
-Sources
-
+## Sources
 - Rendsburg City — Stadtgeschichte
 - Deutsche Biographie — Adolf III.
 - Gesellschaft für Schleswig-Holsteinische Geschichte — Schauenburger
 - Lex.dk — Adolf 3.
-
-Connected People
-
+## Connected People
 - Adolf II. von Schauenburg — father
 - Mechthild von Schwarzburg-Käfernburg — mother
 - Adelheid von Assel — first wife
@@ -121,8 +109,7 @@ Connected People
 - Waldemar II. von Dänemark — Danish ruler whose forces continued the conflict with Adolf’s house
 - Prinz Björn — traditionally associated with the earlier Rendsburg castle
 - Gerhard III. „der Große“ — later Schauenburg ruler connected to Rendsburg
-
-Open Questions
+## Open Questions
 
 - ☐ Where exactly was the castle rebuilt by Adolf III. in 1199?
 - ☐ What did the 1199 castle actually look like?
