@@ -89,7 +89,7 @@ There is currently no specific paranormal or ghost tradition about Adolf II. bei
 ## Connected People
 - [[Adolf I. von Schauenburg]] — father
 - [[Hildewa]] — mother
-- [[Adolf III von Schauenburg]] — son
+- [[Adolf III. von Schauenburg]] — son
 - [[Heinrich der Löwe]] — major contemporary political and military power
 - [[Niklot]] — Slavic prince and political ally
 - [[Prinz Björn]] — traditionally associated with the earlier castle on the Eider island
