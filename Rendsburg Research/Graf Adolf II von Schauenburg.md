@@ -1,23 +1,18 @@
 #person #rendsburg / #büdelsdorf
 
-Adolf II. von Schauenburg
-
+# Adolf II von Schauenburg
 >[!infobox]  
 >**Born**: c. 1128
 >**Died**: 6 July 1164, near Demmin, Pomerania
 >**Connection**: Rendsburg / Holstein
 >**Occupation**: Count of Holstein and Stormarn
-
-Overview
-
+## Overview
 Adolf II. von Schauenburg was a medieval Count of Holstein and Stormarn and an important member of the House of Schauenburg.
 
 He is particularly relevant to Rendsburg because, according to the city’s historical account, he renewed the castle on one of the Eider islands around 1150. The city identifies this castle as the earlier fortification traditionally associated with the beginnings of Rendsburg’s later castle, which eventually became known as the Reinholdsburg. ([Rendsburg](https://www.rendsburg.de/stadt-geschichte/stadtportrait/stadtgeschichte?utm_source=chatgpt.com))
 
 Adolf II. was also an important political and military figure in northern Germany during the 12th century. He played a major role in the expansion and consolidation of Schauenburg power in Holstein and Wagrien.
-
-Background
-
+## Background
 Adolf II. was the son of Adolf I., Count of Holstein and Stormarn, and Hildewa.
 
 He was originally intended for an ecclesiastical career and received an unusually scholarly education for a medieval nobleman. According to the Deutsche Biographie, he understood both Latin and Slavic.
@@ -27,9 +22,7 @@ After the death of his older brother, Adolf II. became his father’s successor.
 During his rule he became involved in the political and military conflicts between the German Empire, Denmark and the Slavic territories east of the Elbe.
 
 One of the most important aspects of his rule was the settlement and Christianization of Wagrien and the surrounding territories. He worked with nobles and clergy to establish settlements and strengthen Christian institutions.
-
-Connection to Rendsburg / Büdelsdorf
-
+## Connection to Rendsburg / Büdelsdorf
 Adolf II. is connected to Rendsburg through the medieval castle on an Eider island.
 
 Rendsburg’s official city history states that around 1150, Adolf II. renewed the castle that had traditionally been attributed to Prince Björn, who was said to have built a castle on one of the Eider islands around 1100. By Adolf II.’s time, this earlier castle had fallen into disrepair. ([Rendsburg](https://www.rendsburg.de/stadt-geschichte/stadtportrait/stadtgeschichte?utm_source=chatgpt.com))
