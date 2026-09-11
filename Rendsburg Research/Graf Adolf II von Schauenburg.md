@@ -1,4 +1,5 @@
-#person #rendsburg / #büdelsdorf
+#person #rendsburg 
+
 
 # Adolf II von Schauenburg
 >[!infobox]  
@@ -91,8 +92,8 @@ There is currently no specific paranormal or ghost tradition about Adolf II. bei
 - [[Adolf III von Schauenburg]] — son
 - [[Heinrich der Löwe]] — major contemporary political and military power
 - [[Niklot]] — Slavic prince and political ally
-- Prinz Björn — traditionally associated with the earlier castle on the Eider island
-- Knud Lavard — Danish prince whose death contributed to the political conflicts of Adolf II.’s era
+- [[Prinz Björn]] — traditionally associated with the earlier castle on the Eider island
+- [[Knud Lavard]] — Danish prince whose death contributed to the political conflicts of Adolf II.’s era
 ## Open Questions
 - [ ] Where exactly was Adolf II.’s castle located on the Eider island?
 - [ ] How large was the castle?
