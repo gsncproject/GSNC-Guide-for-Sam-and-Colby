@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 #HellWeek22 #sam_and_colby #gsnc #vol_I 
 
 >[!Information]
