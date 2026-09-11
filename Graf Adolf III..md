@@ -101,16 +101,15 @@ There is currently no specific ghost story about Adolf III. that is being treate
 - [[Graf Adolf II. von Schauenburg]] — father
 - [[Mechthild von Schwarzburg-Käfernburg]] — mother
 - [[Adelheid von Assel]] — first wife
-- Adelheid von Querfurt — second wife
-- Adolf IV. von Schauenburg — son
-- Heinrich der Löwe — former political ally
-- Friedrich I. Barbarossa — emperor and later political ally
-- Knud VI. von Dänemark — Danish king who captured the Rendsburg castle
-- Waldemar II. von Dänemark — Danish ruler whose forces continued the conflict with Adolf’s house
-- Prinz Björn — traditionally associated with the earlier Rendsburg castle
-- Gerhard III. „der Große“ — later Schauenburg ruler connected to Rendsburg
+- [[Adelheid von Querfurt]] — second wife
+- [[Adolf IV. von Schauenburg]] — son
+- [[Heinrich der Löwe]] — former political ally
+- [[Friedrich I. Barbarossa]] — emperor and later political ally
+- [[Knud VI. von Dänemark]] — Danish king who captured the Rendsburg castle
+- [[Waldemar II. von Dänemark]] — Danish ruler whose forces continued the conflict with Adolf’s house
+- [[Prinz Björn]] — traditionally associated with the earlier Rendsburg castle
+- [[Graf Gerhard III.]] „der Große“ — later Schauenburg ruler connected to Rendsburg
 ## Open Questions
-
 - [ ] Where exactly was the castle rebuilt by Adolf III. in 1199?
 - [ ] What did the 1199 castle actually look like?
 - [ ] How much of Adolf III.’s rebuilding was completed before Knud VI. captured it?
