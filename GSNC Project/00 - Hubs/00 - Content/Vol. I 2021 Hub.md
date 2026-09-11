@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 #hub #vol_I 
 
 ## July 2021 - September 2021 

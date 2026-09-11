@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 #gsnc #v1 
 
 - Lucy fooled us the whole time and pretended to be the four Mary's.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 #theattachment #sam_and_colby #vol_I #gsnc 
 
 >[!Information] 
