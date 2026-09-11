@@ -60,7 +60,7 @@
 - [ ] — Rendsburg‘s 1945 British Occupation 
 - [ ] — [[Graf Gerhard III.]]
 - [ ] — [[Graf Adolf II. von Schauenburg]]
-- [ ] — Graf Adolf III
+- [ ] — [[Graf Adolf III.]]
 - [ ] — Prinz Björn
 - [ ] — Generalmajor Henrick Ruse
 - [ ] — Generalmajor Jobst von Scholten
