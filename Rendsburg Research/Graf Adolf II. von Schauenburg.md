@@ -87,7 +87,7 @@ There is currently no specific paranormal or ghost tradition about Adolf II. bei
 - Deutsche Biographie — Adolf II. von Schauenburg
 - Deutsche Biographie — Schaumburg / Schauenburg
 ## Connected People
-- [[Adolf I von Schauenburg]] — father
+- [[Adolf I. von Schauenburg]] — father
 - [[Hildewa]] — mother
 - [[Adolf III von Schauenburg]] — son
 - [[Heinrich der Löwe]] — major contemporary political and military power

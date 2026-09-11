@@ -78,14 +78,14 @@ No specific ghost story or paranormal tradition about Gerhard III. is currently 
 - Gesellschaft für Schleswig-Holsteinische Geschichte — Rendsburg
 - Allgemeine Deutsche Biographie — Gerhard III. (Graf von Holstein)
 ## Connected People
-- [[Heinrich I von Holstein-Rendsburg]] — father
+- [[Heinrich I. von Holstein-Rendsburg]] — father
 - [[Heilwig von Bronckhorst]] — mother
 - [[Sofie von Werle]]/Mecklenburg — wife
-- [[Heinrich II von Holstein-Rendsburg]] — son
+- [[Heinrich II. von Holstein-Rendsburg]] — son
 - [[Nikolaus von Holstein-Rendsburg]] — son
 - [[Niels Ebbesen]] — Danish nobleman involved in Gerhard’s death
-- [[Johann II von Holstein-Kiel]] — relative and political ally
-- [[Waldemar III of Denmark]] — Gerhard’s nephew and a major figure in the Danish succession crisis
+- [[Johann II. von Holstein-Kiel]] — relative and political ally
+- [[Waldemar III. of Denmark]] — Gerhard’s nephew and a major figure in the Danish succession crisis
 ## Open Questions
 - [ ] What exactly did the original 1339 Rendsburg document grant in terms of territory?
 - [ ] Where precisely were the lands south of the Eider that Gerhard transferred to Rendsburg?
