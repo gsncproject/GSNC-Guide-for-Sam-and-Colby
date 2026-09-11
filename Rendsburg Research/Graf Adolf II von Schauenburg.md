@@ -86,18 +86,18 @@ There is currently no specific paranormal or ghost tradition about Adolf II. bei
 - Deutsche Biographie — Adolf II. von Schauenburg
 - Deutsche Biographie — Schaumburg / Schauenburg
 ## Connected People
-- Adolf I. von Schauenburg — father
-- Hildewa — mother
-- Adolf III. von Schauenburg — son
-- Heinrich der Löwe — major contemporary political and military power
-- Niklot — Slavic prince and political ally
+- [[Adolf I von Schauenburg]] — father
+- [[Hildewa]] — mother
+- [[Adolf III von Schauenburg]] — son
+- [[Heinrich der Löwe]] — major contemporary political and military power
+- [[Niklot]] — Slavic prince and political ally
 - Prinz Björn — traditionally associated with the earlier castle on the Eider island
 - Knud Lavard — Danish prince whose death contributed to the political conflicts of Adolf II.’s era
 ## Open Questions
-- Where exactly was Adolf II.’s castle located on the Eider island?
-- How large was the castle?
-- What did the castle look like around 1150?
-- Was Adolf II.’s castle built directly on the site of the earlier castle attributed to Prinz Björn?
-- What archaeological evidence survives from the 12th-century castle?
-- What exactly did Adolf II.’s rebuilding of the castle involve?
-- Are there surviving medieval documents that mention Adolf II.’s castle at Rendsburg directly?
+- [ ] Where exactly was Adolf II.’s castle located on the Eider island?
+- [ ] How large was the castle?
+- [ ] What did the castle look like around 1150?
+- [ ] Was Adolf II.’s castle built directly on the site of the earlier castle attributed to Prinz Björn?
+- [ ] What archaeological evidence survives from the 12th-century castle?
+- [ ] What exactly did Adolf II.’s rebuilding of the castle involve?
+- [ ] Are there surviving medieval documents that mention Adolf II.’s castle at Rendsburg directly?
