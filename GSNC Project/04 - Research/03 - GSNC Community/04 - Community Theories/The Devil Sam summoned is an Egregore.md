@@ -1,6 +1,6 @@
 #community #theory #gsnc
 
-# Community Theory — The Devil Sam summoned is an egregore
+# Community Theory — The Devil Sam summoned is an Egregore
 **Proposed By**: @silverspringskindagirl
 **Platform**: TikTok
 **Date**: 2026-08-15
