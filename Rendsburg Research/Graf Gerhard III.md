@@ -6,7 +6,6 @@
 >**Died**: 1 April 1340, Randers, Jutland
 >**Connection**: Rendsburg / Holstein-Rendsburg
 >**Occupation**: Count of Holstein-Rendsburg; Duke of Schleswig (1326–1330)
-
 ## Overview
 Gerhard III. of Holstein-Rendsburg, commonly known as Gerhard der Große (“Gerhard the Great”), was one of the most powerful members of the Rendsburg line of the House of Schauenburg.
 
