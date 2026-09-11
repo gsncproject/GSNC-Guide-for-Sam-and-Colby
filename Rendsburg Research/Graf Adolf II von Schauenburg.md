@@ -73,25 +73,19 @@ Adolf II. lived approximately seven centuries before Rendsburg’s major industr
 - Rendsburg’s official history states that he renewed the earlier castle on an Eider island around 1150.
 - The precise appearance and location of this early castle are unknown.
 - The castle was later rebuilt by Adolf III. around 1199 and eventually became associated with the name Reinholdsburg. ([Rendsburg](https://www.rendsburg.de/stadt-geschichte/stadtportrait/stadtgeschichte?utm_source=chatgpt.com))
-
-Local Accounts
-
+## Local Accounts
 The Rendsburg tradition places Adolf II. in the early development of the castle on the Eider islands.
 
 The earliest castle tradition itself goes further back: Rendsburg’s city history attributes a castle around 1100 to the Danish prince Björn, while later historical material notes that the location and size of this earliest castle are unknown. ([Rendsburg](https://www.rendsburg.de/stadt-geschichte/stadtportrait/stadtgeschichte?utm_source=chatgpt.com))
 
 There is currently no specific paranormal or ghost tradition about Adolf II. being treated as documented local folklore in this archive.
-
-Sources
-
+## Sources
 - Rendsburg City — Stadtgeschichte
 - Rendsburg City — Stadtbaugeschichte
 - Rendsburg City — Abschlussbericht Neuwerk 2008
 - Deutsche Biographie — Adolf II. von Schauenburg
 - Deutsche Biographie — Schaumburg / Schauenburg
-
-Connected People
-
+## Connected People
 - Adolf I. von Schauenburg — father
 - Hildewa — mother
 - Adolf III. von Schauenburg — son
@@ -99,13 +93,11 @@ Connected People
 - Niklot — Slavic prince and political ally
 - Prinz Björn — traditionally associated with the earlier castle on the Eider island
 - Knud Lavard — Danish prince whose death contributed to the political conflicts of Adolf II.’s era
-
-Open Questions
-
-- ☐ Where exactly was Adolf II.’s castle located on the Eider island?
-- ☐ How large was the castle?
-- ☐ What did the castle look like around 1150?
-- ☐ Was Adolf II.’s castle built directly on the site of the earlier castle attributed to Prinz Björn?
-- ☐ What archaeological evidence survives from the 12th-century castle?
-- ☐ What exactly did Adolf II.’s rebuilding of the castle involve?
-- ☐ Are there surviving medieval documents that mention Adolf II.’s castle at Rendsburg directly?
+## Open Questions
+- Where exactly was Adolf II.’s castle located on the Eider island?
+- How large was the castle?
+- What did the castle look like around 1150?
+- Was Adolf II.’s castle built directly on the site of the earlier castle attributed to Prinz Björn?
+- What archaeological evidence survives from the 12th-century castle?
+- What exactly did Adolf II.’s rebuilding of the castle involve?
+- Are there surviving medieval documents that mention Adolf II.’s castle at Rendsburg directly?
