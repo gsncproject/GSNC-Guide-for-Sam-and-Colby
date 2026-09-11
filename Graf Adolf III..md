@@ -15,9 +15,7 @@ He is particularly important to Rendsburg’s early history because he began reb
 The rebuilding was interrupted when Danish King Knud VI. captured the castle in 1200 and completed the work. The castle later became known as Reinholdsburg, a name from which the name Rendsburg is traditionally derived. ([Rendsburg](https://www.rendsburg.de/stadt-geschichte/stadtportrait/stadtgeschichte?utm_source=chatgpt.com))
 
 Adolf III. was also an important political and military figure during the struggle between the Danish kingdom and the German rulers for control of Holstein and the territories north of the Elbe.
-
-Background
-
+## Background
 Adolf III. was the only son of Adolf II. von Schauenburg and Mechthild von Schwarzburg-Käfernburg.
 
 He succeeded his father in 1164 while still young and initially ruled under guardianship.
@@ -27,9 +25,7 @@ Adolf III. became an important supporter of Heinrich the Lion, Duke of Saxony, d
 He was married first to Adelheid von Assel and later to Adelheid von Querfurt.
 
 His son Adolf IV. later became Count of Holstein and played a major role in defeating the Danish king at the Battle of Bornhöved in 1227.
-
-Connection to Rendsburg / Büdelsdorf
-
+## Connection to Rendsburg / Büdelsdorf
 Adolf III. is directly connected to the earliest documented development of medieval Rendsburg.
 
 In 1199, he began rebuilding the castle on an Eider island that had previously been renewed by his father Adolf II. The castle had once again fallen into disrepair.
@@ -39,9 +35,7 @@ In 1200, Danish King Knud VI. captured the castle and completed the rebuilding A
 Between 1204 and 1209, the Lübeck abbot Arnold mentioned the castle in his Chronica Slavorum as Reinholdsburg. Rendsburg’s city history states that the name of this castle eventually gave rise to the name Rendsburg. ([Rendsburg](https://www.rendsburg.de/stadt-geschichte/stadtportrait/stadtgeschichte?utm_source=chatgpt.com))
 
 This makes Adolf III. a particularly important figure in the transition from the early medieval castle settlement to the later town of Rendsburg.
-
-Associated Places
-
+## Associated Places
 - Rendsburg / Eider islands — Adolf III. began rebuilding the castle here in 1199.
 - Rendsburg Castle / Reinholdsburg — Medieval castle whose rebuilding Adolf III. began.
 - Eider — River surrounding the islands on which the medieval settlement developed.
@@ -49,9 +43,7 @@ Associated Places
 - Holstein — Territory over which Adolf III. ruled as count.
 - Stormarn — Territory associated with his rule.
 - Hamburg — Adolf III. founded a settlement on the western Alster bank that developed into Hamburg’s Neustadt.
-
-Military Connection
-
+## Military Connection
 Adolf III. was heavily involved in the military conflicts between the German Empire, the Welfs and Denmark.
 
 He initially supported Heinrich the Lion and participated in military campaigns on his side.
