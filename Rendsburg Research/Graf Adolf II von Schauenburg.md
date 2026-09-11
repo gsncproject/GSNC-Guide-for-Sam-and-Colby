@@ -32,18 +32,14 @@ The exact appearance, size and precise location of Adolf II.’s castle are not 
 The castle was later renewed again by Adolf III. around 1199. It subsequently became known in written sources as Reinholdsburg, and the name eventually contributed to the development of the name Rendsburg. ([Rendsburg](https://www.rendsburg.de/stadt-geschichte/stadtportrait/stadtgeschichte?utm_source=chatgpt.com))
 
 Because of this, Adolf II. belongs to the very early history of the settlement and castle that eventually developed into medieval Rendsburg.
-
-Associated Places
-
+## Associated Places
 - Rendsburg / Eider islands — Site of the medieval castle associated with Adolf II.’s rebuilding around 1150.
 - Reinholdsburg / Rendsburg Castle — Later development of the medieval castle complex connected with the early history of Rendsburg.
 - Eider — The river and its islands formed the geographical setting for the early settlement and castle.
 - Holstein — Adolf II.’s principal county and political base.
 - Wagrien — Territory whose settlement and Christianization became a major part of Adolf II.’s rule.
 - Lübeck — Adolf II. was involved in the development and foundation of the medieval city.
-
-Military Connection
-
+## Military Connection
 Adolf II. was heavily involved in the military conflicts of 12th-century northern Europe.
 
 During the conflict surrounding Knud Lavard’s death, Adolf supported the Danish prince Erik and became involved in the struggle against Danish forces.
@@ -55,15 +51,11 @@ Adolf also fought against Slavic forces in the territories east of Holstein. His
 In 1150, Adolf supported the Slavic prince Niklot with a force of approximately 2,000 men against rebellious Slavic groups. ([Deutsche Biographie](https://www.deutsche-biographie.de/gnd138243700.html?language=en&utm_source=chatgpt.com))
 
 He was eventually killed during the military campaign near Demmin in 1164. ([Deutsche Biographie](https://www.deutsche-biographie.de/gnd129153028.html?utm_source=chatgpt.com))
-
-Industrial Connection
-
+## Industrial Connection
 None directly.
 
 Adolf II. lived approximately seven centuries before Rendsburg’s major industrial development.
-
-Notable Events
-
+## Notable Events
 - c. 1128 — Adolf II. is born.
 - 1130s — After the death of his older brother, Adolf II. succeeds to his father’s inheritance.
 - 1147 — Adolf participates in the Wendish Crusade.
@@ -71,11 +63,9 @@ Notable Events
 - 1150 — Adolf supports Niklot against rebellious Slavic groups with a large military force.
 - 1150s–1160s — Adolf strengthens Schauenburg influence and promotes settlement and Christian institutions in Wagrien.
 - 1164 — Adolf II. dies during fighting near Demmin.
-
-Documented Information
-
+## Documented Information
 - Adolf II. was a Count of Holstein and Stormarn.
-- He belonged to the House of Schauenburg.
+- He belonged to the [[House of Schauenburg]].
 - He was the son of Adolf I. of Holstein.
 - He died in 1164 near Demmin.
 - He played an important role in the settlement and Christianization of Wagrien.
