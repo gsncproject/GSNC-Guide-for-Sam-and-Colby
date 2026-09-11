@@ -2,7 +2,6 @@
 aliases:
   - Historic Bowers Mansion
   - The Haunted Bowers Mansion
-dg-publish: true
 ---
 #location #gsnc 
 
