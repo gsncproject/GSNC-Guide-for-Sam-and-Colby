@@ -1,4 +1,4 @@
-- [ ] — [[De Blotplacken in de Rendsborger Marienkark]]
+- [x] — [[De Blotplacken in de Rendsborger Marienkark]]  [completion:: 2026-09-11]
 - [ ] — Ostfage
 - [ ] — Gerhardsbrunnen
 - [ ] — Child-Crying Water Story
@@ -58,9 +58,9 @@
 - [ ] — Kanal-Fußgängertunnel
 - [ ] — NS-Era Rendsburg 1933-1945
 - [ ] — Rendsburg‘s 1945 British Occupation 
-- [ ] — [[Graf Gerhard III.]]
-- [ ] — [[Graf Adolf II. von Schauenburg]]
-- [ ] — [[Graf Adolf III.]]
+- [x] — [[Graf Gerhard III.]]  [completion:: 2026-09-11]
+- [x] — [[Graf Adolf II. von Schauenburg]]  [completion:: 2026-09-11]
+- [x] — [[Graf Adolf III.]]  [completion:: 2026-09-11]
 - [ ] — Prinz Björn
 - [ ] — Generalmajor Henrick Ruse
 - [ ] — Generalmajor Jobst von Scholten
