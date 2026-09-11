@@ -98,9 +98,9 @@ There is currently no specific ghost story about Adolf III. that is being treate
 - Gesellschaft für Schleswig-Holsteinische Geschichte — Schauenburger
 - Lex.dk — Adolf 3.
 ## Connected People
-- Adolf II. von Schauenburg — father
-- Mechthild von Schwarzburg-Käfernburg — mother
-- Adelheid von Assel — first wife
+- [[Graf Adolf II. von Schauenburg]] — father
+- [[Mechthild von Schwarzburg-Käfernburg]] — mother
+- [[Adelheid von Assel]] — first wife
 - Adelheid von Querfurt — second wife
 - Adolf IV. von Schauenburg — son
 - Heinrich der Löwe — former political ally
@@ -111,11 +111,11 @@ There is currently no specific ghost story about Adolf III. that is being treate
 - Gerhard III. „der Große“ — later Schauenburg ruler connected to Rendsburg
 ## Open Questions
 
-- ☐ Where exactly was the castle rebuilt by Adolf III. in 1199?
-- ☐ What did the 1199 castle actually look like?
-- ☐ How much of Adolf III.’s rebuilding was completed before Knud VI. captured it?
-- ☐ What archaeological remains can be connected to the 12th/13th-century castle?
-- ☐ Why did the castle become known as Reinholdsburg?
-- ☐ How exactly did the name Reinholdsburg develop into Rendsburg?
-- ☐ What did the settlement on the neighboring Eider island look like around 1200?
-- ☐ Are there surviving contemporary sources that describe the castle itself?
+- [ ] Where exactly was the castle rebuilt by Adolf III. in 1199?
+- [ ] What did the 1199 castle actually look like?
+- [ ] How much of Adolf III.’s rebuilding was completed before Knud VI. captured it?
+- [ ] What archaeological remains can be connected to the 12th/13th-century castle?
+- [ ] Why did the castle become known as Reinholdsburg?
+- [ ] How exactly did the name Reinholdsburg develop into Rendsburg?
+- [ ] What did the settlement on the neighboring Eider island look like around 1200?
+- [ ] Are there surviving contemporary sources that describe the castle itself?
