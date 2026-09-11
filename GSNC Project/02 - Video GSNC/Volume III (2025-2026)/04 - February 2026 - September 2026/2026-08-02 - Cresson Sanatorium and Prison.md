@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 #sam_and_colby #videos #vol_III #gsnc 
 
 >[!Information]
