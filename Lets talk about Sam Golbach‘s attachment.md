@@ -26,4 +26,6 @@ So, at this scene Sam asks if Emily and Sallie are the same. They get kinda dist
 
 After that they don‘t talk about it anymore and move on with the investigation. But there was the confirmation that Emily and Sallie are the same.
 
-And then there is [[2022-04-16 - The Stanley Hotel (Return)]] video, where they lead with the assumption that Lucy is
+And then there is [[2022-04-16 - The Stanley Hotel (Return)]] video, where they lead with the assumption that Lucy is Sam‘s attachment. BUt during the [[Estes Method]] in the Music Hall it‘s clear that Lucy is a variation of it. 
+
+Now we got Sallie, Lucy and Emily that might be the same. This is where me and my friend
