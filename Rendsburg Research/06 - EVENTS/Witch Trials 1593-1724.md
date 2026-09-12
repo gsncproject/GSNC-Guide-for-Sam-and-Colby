@@ -86,51 +86,15 @@ The 1616 executioner's account is particularly important because it documents ex
 ## Local Accounts
 The witch trials have contributed to the wider historical memory and folklore surrounding Rendsburg.
 
-Later local traditions may preserve stories about witches, magical acts, executions, and supernatural events, but these should be
+Later local traditions may preserve stories about witches, magical acts, executions, and supernatural events, but these should be distinguished from the surviving historical court records.
 
-distinguished from the surviving historical court records.
-
-  
-
-The historical accusations themselves should not be treated as
-
-evidence that the accused people actually possessed supernatural
-
-abilities.
-
-  
-
+The historical accusations themselves should not be treated as evidence that the accused people actually possessed supernatural abilities.
 ## Historical Context
+The Rendsburg trials occurred during the broader European witch persecutions of the Early Modern Period.
 
-  
+In Schleswig-Holstein, witch persecutions began in 1530 and continued into the 18th century. Regional research identifies 852 documented persons involved in witchcraft proceedings across Schleswig, Holstein, Lauenburg and Lübeck between 1530 and 1735.
 
-The Rendsburg trials occurred during the broader European witch
-
-persecutions of the Early Modern Period.
-
-  
-
-In Schleswig-Holstein, witch persecutions began in 1530 and continued
-
-into the 18th century. Regional research identifies 852 documented
-
-persons involved in witchcraft proceedings across Schleswig,
-
-Holstein, Lauenburg and Lübeck between 1530 and 1735.
-
-  
-
-The number of prosecutions increased from around 1590 onward. One
-
-factor was the influence of contemporary theological writings about
-
-witchcraft. Samuel Meiger, who was born in Rendsburg, published a
-
-work on witchcraft in 1587 and advocated a considerably stricter
-
-approach toward alleged witchcraft.
-
-  
+The number of prosecutions increased from around 1590 onward. One factor was the influence of contemporary theological writings about witchcraft. Samuel Meiger, who was born in Rendsburg, published a work on witchcraft in 1587 and advocated a considerably stricter approach toward alleged witchcraft.
 
 Rendsburg's legal authorities operated within the wider legal
 
