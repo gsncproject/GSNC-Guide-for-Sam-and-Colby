@@ -16,7 +16,7 @@ What we all assume is that Sallie started at the named alike Sallie House in Kan
 
 Sallie is apparently a little girl who died due to appendicitis. Though, people believe Sallie isn‘t a little girl but a rather darker entity pretending to be a child.
 
-We all seem to forget that the theory of Sam having an attachment began with him sitting on the pentagram in the basement of the Sallie House.
+We all seem to forget that the theory of Sam having an attachment began with him sitting on the pentagram in the basement of [[the Sallie House]].
 
 From then on in more and more videos Sallie got referenced or even mentioned out loud by the spirit box/ovilus/etc. But there is two I have seen no one mention.
 
