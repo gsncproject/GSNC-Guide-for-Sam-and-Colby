@@ -128,8 +128,7 @@ By the later 17th century, skepticism toward witchcraft prosecutions had become 
 - [[The Soldier that made a deal with the Devil]]
 - [[Headless Sentry of the Bastion]]
 ## Open Questions
-- [ ] Why does the regional historical source identify **1724** as
-the final execution while Schulte's detailed account dates the Rendsburg soldier's execution to **June 1721**?
+- [ ] Why does the regional historical source identify **1724** as the final execution while Schulte's detailed account dates the Rendsburg soldier's execution to **June 1721**?
 - [ ] Who was the 17-year-old soldier executed in the final case?
 - [ ] Can his name be established from the original military-court records?
 - [ ] Where exactly did the 1593 executions take place?
