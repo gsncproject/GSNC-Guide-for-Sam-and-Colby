@@ -72,46 +72,29 @@ The church continued to serve as an important religious and community centre whi
 
 The interior accumulated additional epitaphs, memorials and artistic works.
 ### 2022 — Church Administration
-The former independent St. Marien parish became part of the
-larger Ev.-Luth. Kirchengemeinde Rendsburg in early 2022.
-
+The former independent St. Marien parish became part of the larger Ev.-Luth. Kirchengemeinde Rendsburg in early 2022.
 ### 2023 — Archaeological Discovery Nearby
+During road construction between [[Marienkirchhof]] and the Alloheim site, a large number of human bones were discovered.
 
-During road construction between [[Marienkirchhof]] and the
-Alloheim site, a large number of human bones were discovered.
+Scientific investigation identified the remains of at least 115 women, men and children dating to the period of the [[Thirty Years' War]].
 
-Scientific investigation identified the remains of at least
-115 women, men and children dating to the period of the
-[[Thirty Years' War]].
+Many of the bones showed evidence of injuries from weapons, while others showed indications of disease.
 
-Many of the bones showed evidence of injuries from weapons,
-while others showed indications of disease.
-
-The discovery has been connected with the [[1644 Sweden Siege]]
-of Rendsburg. The remains were subsequently given a dignified
-burial at the [[Garnisonsfriedhof]].
-
+The discovery has been connected with the [[1644 Sweden Siege]] of Rendsburg. The remains were subsequently given a dignified burial at the [[Garnisonsfriedhof]].
 ## Changes Over Time
-
-- **1286** — Predecessor church destroyed in the Rendsburg city
-  fire.
+- **1286** — Predecessor church destroyed in the Rendsburg city fire.
 - **1287** — Construction of the present church begins.
 - **c. 1330–1335** — Main three-aisled church and choir completed.
 - **c. 1350** — Present vaulting constructed.
 - **1454** — Church tower completed.
 - **Reformation** — Several side altars removed.
 - **1649** — Present main altar created.
-- **20th–21st centuries** — Continued restoration and preservation
-  of the historic building and interior.
-- **2022** — Former independent parish becomes part of the
-  Kirchengemeinde Rendsburg.
+- **20th–21st centuries** — Continued restoration and preservation of the historic building and interior.
+- **2022** — Former independent parish becomes part of the Kirchengemeinde Rendsburg.
 - **2023** — Human remains discovered during construction near
   [[Marienkirchhof]].
-- **2025** — A new Späth organ began accompanying church services
-  and musical events.
-
+- **2025** — A new Späth organ began accompanying church services and musical events.
 ## People Connected
-
 - **Henning Clausen** — Woodcarver who created the main altar.
 - **Elisabeth Behling** — Donor of the 1649 main altar.
 - **Hans Peper** — Rendsburg woodcarver whose work includes
