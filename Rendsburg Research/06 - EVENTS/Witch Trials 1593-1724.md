@@ -105,7 +105,7 @@ However, the Rendsburg cases also demonstrate that accusations did not automatic
 By the later 17th century, skepticism toward witchcraft prosecutions had become increasingly visible. The final cases therefore differed from the large-scale accusations of magical harm seen earlier in the century.
 ## Sources
 - Rolf Schulte, **“Hexenverfolgung in Rendsburg”**, Demokratische Geschichte, Band 13. 
-- [[Gesellschaft für Schleswig-Holsteinische Geschichte — Hexenverfolgung in Schleswig-Holstein]]
+- Gesellschaft für Schleswig-Holsteinische Geschichte — Hexenverfolgung in Schleswig-Holstein
 - Stadtarchiv Rendsburg, Abteilung X 6, Nr. 221.
 - Stadtarchiv Rendsburg, Abteilung X 7, Nr. 237.
 - Stadtarchiv Rendsburg, Abteilung X 7, Nr. 239.
