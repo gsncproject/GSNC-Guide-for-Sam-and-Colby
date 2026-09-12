@@ -1,5 +1,6 @@
 #location #rendsburg / #büdelsdorf
 
+(*Generated with Google Gemini from a user-provided template; not idependently verified by the GSNC*)
 # St. Marienkirche
 > [!infobox]
 > **Type:** Church / historic building / cultural heritage site
@@ -198,9 +199,4 @@ The distinction between the two is important:
 
 **Documented history:** The church was built beginning in 1287, has medieval architectural elements, historic furnishings, epitaphs and a long connection to Rendsburg.
 
-**Folklore:** Stories such as [[De Blotplacken in de Rendsborger Marienkark]] attribute supernatural meaning to events supposedly occurring
-inside the church.
-
-**Personal experience:** Visits to the church and observations
-made there belong in [[Personal Experiences]] and should not be
-presented as historical evidence.
+**Folklore:** Stories such as [[De Blotplacken in de Rendsborger Marienkark]] attribute supernatural meaning to events supposedly occurring inside the church.
