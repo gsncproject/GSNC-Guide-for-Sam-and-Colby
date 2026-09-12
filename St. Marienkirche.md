@@ -149,11 +149,9 @@ The visit was primarily a personal act of remembrance rather than a paranormal i
 - Personal photographs of the interior
 - Photographs of [[Marienkirchhof]]
 - Historical photographs of St. Marienkirche
-- [[St. Marien — neu gesehen]] church video
+- St. Marien — neu gesehen church video
 - Historical maps of [[Rendsburger Altstadt]]
-
 ## Sources
-
 - [Rendsburg City — Stadtgeschichte](https://www.rendsburg.de/stadt-geschichte/stadtportrait/stadtgeschichte)
 - [Rendsburg City — Stadtportrait](https://www.rendsburg.de/stadt-geschichte/stadtportrait)
 - [Ev.-Luth. Kirchengemeinde Rendsburg — St. Marien-Kirche](https://www.kirchengemeinde-rendsburg.de/kirchen/st-marien-kirche)
@@ -163,34 +161,27 @@ The visit was primarily a personal act of remembrance rather than a paranormal i
 - [Ev.-Luth. Kirchenkreis — Vom Straßenfund zur würdigen Grabstätte](https://www.kkre.de/aktuelles/details/news/vom-strassenfund-zur-wuerdigen-grabstaette)
 - Rendsburg City — IEK Rendsburger Altstadt
 - Rendsburg City — Stadtbaugeschichte
-
 ## Connected Notes
-
 - [[Rendsburger Altstadt]]
 - [[Marienkirchhof]]
-- [[De Blotplacken in de Marienkark]]
+- [[De Blotplacken in de Rendsborger Marienkark]]
 - [[1644 Sweden Siege]]
 - [[1644 Burial Discovery]]
 - [[Rendsburg Fires]]
-- [[Witch Trials in Rendsburg, 1593–1724]]
+- [[Witch Trials 1593-1724]]
 - [[Samuel Meiger]]
 - [[Henning Clausen]]
 - [[Hans Peper]]
 - [[Altstädter Markt]]
 - [[Altes Rathaus]]
 - [[Schlossplatz]]
-- [[Gerhard III]]
+- [[Graf Gerhard III.]]
 - [[Rendsburg]]
-- [[Personal Experiences — Rendsburg]]
-
 ## Open Questions
-
 - [ ] What was the exact location of the predecessor church?
-- [ ] What is the earliest surviving written description of the
-      predecessor church?
+- [ ] What is the earliest surviving written description of the  predecessor church?
 - [ ] What was the original appearance of the 1287 church?
-- [ ] What architectural changes were made between the medieval
-      period and today?
+- [ ] What architectural changes were made between the medieval period and today?
 - [ ] What is the exact history of the church tower between its
       medieval construction and later renovations?
 - [ ] Where exactly was the historical [[Marienkirchhof]] located
