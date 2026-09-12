@@ -28,4 +28,6 @@ After that they don‘t talk about it anymore and move on with the investigation
 
 And then there is [[2022-04-16 - The Stanley Hotel (Return)]] video, where they lead with the assumption that Lucy is Sam‘s attachment. BUt during the [[Estes Method]] in the Music Hall it‘s clear that Lucy is a variation of it. 
 
-Now we got Sallie, Lucy and Emily that might be the same. This is where me and my friend
+Now we got Sallie, Lucy and Emily that might be the same. This is where me and my friends theory comes in, which we established before Bellaire. Funny enough shortly after we established ours, Sam and Colby came up with the same: That there is a puppeteer.
+
+The [[Puppeteer Theory]] or as we put
