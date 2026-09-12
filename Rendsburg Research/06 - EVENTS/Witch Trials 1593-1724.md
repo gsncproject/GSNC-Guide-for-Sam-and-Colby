@@ -40,38 +40,16 @@ Several events were connected with specific locations:
 - [[Kronwerk]] / former Vinzier — associated with the 1613 accusations against Abelke Pletten.
 
 The exact locations of individual executions are not established in this note and require further research.
-
-  
-
 ## People Involved
-
-  
-
 - **Lene Stubbe** — accused and executed in 1593.
-
 - **Anneke Hagge** — accused and executed in 1593.
-
 - **Anneke Duwe** — accused and executed in 1593.
-
 - **Engelke Johansen** — accused of witchcraft in 1597; acquitted.
-
 - **Unnamed wife of Detleff Mathias** — accused in 1597; acquitted.
-
-- **Peter Kall** — citizen who accused Johansen and Mathias of
-
-  bewitching him.
-
-- **Abelke Pletten** — woman from Fockbek accused in 1613; died after
-
-  torture.
-
-- **Heinrich Plön** — accused as a male witch / alleged Devil's
-
-  confederate in 1613.
-
-- **Carsten Siepke** — possibly accused alongside Heinrich Plön in
-
-  1613.
+- **Peter Kall** — citizen who accused Johansen and Mathias of bewitching him.
+- **Abelke Pletten** — woman from Fockbek accused in 1613; died after torture.
+- **Heinrich Plön** — accused as a male witch / alleged Devil's confederate in 1613.
+- **Carsten Siepke** — possibly accused alongside Heinrich Plön in 1613.
 
 - **Trine Kühl** — executed in 1616.
 
