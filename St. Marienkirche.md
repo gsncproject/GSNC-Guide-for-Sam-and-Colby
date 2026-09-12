@@ -1,6 +1,6 @@
 #location #rendsburg
 
-(*Generated with Google Gemini from a user-provided template; not idependently verified by the GSNC*)
+(*Generated with ChatGPT from a user-provided template; not idependently verified by the GSNC*)
 # St. Marienkirche
 > [!infobox]
 > **Type:** Church / historic building / cultural heritage site

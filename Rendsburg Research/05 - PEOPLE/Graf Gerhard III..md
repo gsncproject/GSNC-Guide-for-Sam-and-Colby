@@ -1,6 +1,6 @@
 #person #rendsburg
 
-(*Generated with Google Gemini from a user-provided template; not idependently verified by the GSNC*)
+(*Generated with ChatGPT from a user-provided template; not idependently verified by the GSNC*)
 # Graf Gerhard III.
 >[!infobox]  
 >**Born**: c. 1292/1293

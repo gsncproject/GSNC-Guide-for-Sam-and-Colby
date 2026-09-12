@@ -1,6 +1,6 @@
 #historical_event #rendsburg 
 
-(*Generated with Google Gemini from a user-provided template; not idependently verified by the GSNC*)
+(*Generated with ChatGPT from a user-provided template; not idependently verified by the GSNC*)
 # Witch Trials in Rendsburg, 1593–1724
 > [!infobox]
 > **Date:** 1593–1724

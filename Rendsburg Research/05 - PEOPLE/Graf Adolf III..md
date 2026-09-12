@@ -1,5 +1,6 @@
 #person #rendsburg 
 
+
 # Adolf III. von Schauenburg
 >[!infobox]  
 >Born: 1160
