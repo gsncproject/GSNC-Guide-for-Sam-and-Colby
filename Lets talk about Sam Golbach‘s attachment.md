@@ -24,4 +24,6 @@ There is one thing no one talks about that happened at the [[The Bellaire House]
 
 So, at this scene Sam asks if Emily and Sallie are the same. They get kinda distracted by a thud in the floor but the flashlight turns on as a yes.
 
-After that they don‘t talk about it a
+After that they don‘t talk about it anymore and move on with the investigation. But there was the confirmation that Emily and Sallie are the same.
+
+And then there is [[2022-04-16 - The Stanley Hotel (Return)]] video, where they lead with the assumption that Lucy is
