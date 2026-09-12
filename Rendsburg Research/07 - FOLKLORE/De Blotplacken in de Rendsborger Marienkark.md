@@ -68,51 +68,17 @@ The alleged merchant, his death, and the supernatural persistence of the bloodst
 ## Related Historical Events
 - [[Rendsburg Fires]]
 - [[The Plague of 1712]]
-
 - [[1850 Cholera Pandemic]]
-
-  
-
 ## Current Status
-
-  
-
 **Classification:** Local legend / oral tradition / unverified
 
-  
-
-The alleged bloodstain is not currently documented as a verified
-
-supernatural phenomenon. The story survives as part of the
-
-folklore surrounding [[St. Marienkirche]].
-
-  
-
-## Open Questions
-
-  
-
+The alleged bloodstain is not currently documented as a verifie supernatural phenomenon. The story survives as part of the folklore surrounding [[St. Marienkirche]].
+## Open Questions 
 - [ ] What is the earliest written version of the story?
-
-- [ ] Which specific source from the [[Amt Rendsburg]] records the
-
-      legend?
-
+- [ ] Which specific source from the [[Amt Rendsburg]] records the legend?
 - [ ] Is the merchant given a name in any version of the story?
-
 - [ ] Is the exact location of the alleged stain known?
-
-- [ ] Does any historical church record mention the merchant or
-
-      his death?
-
-- [ ] Was a physical stain ever documented independently of the
-
-      legend?
-
+- [ ] Does any historical church record mention the merchant or his death?
+- [ ] Was a physical stain ever documented independently of the legend?
 - [ ] When was the alleged stain supposedly covered or concealed?
-
-- [ ] Are there older versions of the legend with different
-
-      details?
+- [ ] Are there older versions of the legend with different details?
