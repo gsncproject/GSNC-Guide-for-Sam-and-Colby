@@ -58,37 +58,21 @@ The present vaulting was constructed.
 The church tower was completed in the 15th century according to
 the Kirchenkreis Rendsburg-Eckernförde.
 ### Reformation
+During the Reformation, several of the church's side altars were removed.
 
-During the Reformation, several of the church's side altars
-were removed.
-
-Other medieval and later furnishings survived and remain part of
-the church's interior.
-
+Other medieval and later furnishings survived and remain part of the church's interior.
 ### 1649 — Main Altar
+The present main altar was created by the woodcarver Henning Clausen.
 
-The present main altar was created by the woodcarver Henning
-Clausen.
+It was donated by Elisabeth Behling, a widow from Schleswig, with a foundation of 400 gold thalers.
 
-It was donated by Elisabeth Behling, a widow from Schleswig,
-with a foundation of 400 gold thalers.
-
-The five-level altar contains scenes including the Crucifixion
-and Resurrection, as well as the Sacrifice of Isaac and the
-Baptism of Christ.
-
+The five-level altar contains scenes including the Crucifixion and Resurrection, as well as the Sacrifice of Isaac and the Baptism of Christ.
 ### 17th–18th Centuries
+The church continued to serve as an important religious and community centre while Rendsburg developed into a major fortress town.
 
-The church continued to serve as an important religious and
-community centre while Rendsburg developed into a major fortress
-town.
-
-The interior accumulated additional epitaphs, memorials and
-artistic works.
-
+The interior accumulated additional epitaphs, memorials and artistic works.
 ### 2022 — Church Administration
-
-The former independent [[St. Marien]] parish became part of the
+The former independent St. Marien parish became part of the
 larger Ev.-Luth. Kirchengemeinde Rendsburg in early 2022.
 
 ### 2023 — Archaeological Discovery Nearby
