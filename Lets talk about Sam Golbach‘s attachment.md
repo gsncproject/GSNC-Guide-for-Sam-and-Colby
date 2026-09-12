@@ -30,4 +30,4 @@ And then there is [[2022-04-16 - The Stanley Hotel (Return)]] video, where they 
 
 Now we got Sallie, Lucy and Emily that might be the same. This is where me and my friends theory comes in, which we established before Bellaire. Funny enough shortly after we established ours, Sam and Colby came up with the same: That there is a puppeteer.
 
-The [[Puppeteer Theory]] or as we put
+The [[Puppeteer Theory]] or as we put it „The [[Minions]]“ says there is one entity that is the highest with other names beneath it to operate with. As for us this puppeteer had always been [[Sallie Lucy]]. And those who were beneath it, where just another disguse
