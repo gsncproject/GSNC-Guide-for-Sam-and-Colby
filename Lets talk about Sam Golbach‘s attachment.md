@@ -20,4 +20,8 @@ We all seem to forget that the theory of Sam having an attachment began with him
 
 From then on in more and more videos Sallie got referenced or even mentioned out loud by the spirit box/ovilus/etc. But there is two I have seen no one mention.
 
-There is one thing no one talks about that happened at the [[The Bellaire House]]. 
+There is one thing no one talks about that happened at the [[The Bellaire House]]. (Let‘s ignore the Seth thing for a minute here, won‘t we?)
+
+So, at this scene Sam asks if Emily and Sallie are the same. They get kinda distracted by a thud in the floor but the flashlight turns on as a yes.
+
+After that they don‘t talk about it a
