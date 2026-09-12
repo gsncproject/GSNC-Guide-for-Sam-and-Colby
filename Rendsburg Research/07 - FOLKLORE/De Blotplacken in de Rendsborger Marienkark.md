@@ -6,46 +6,14 @@
 > **Location:** [[St. Marienkirche]]
 > **Origin:** Known through old legends from the Amt Rendsburg
 > **Status:** Local tradition
+## The Story 
+According to old legends from the [[Amt Rendsburg]], a wealthy but notoriously greedy merchant once stood inside [[St. Marienkirche]] during a church service.
 
-  ## The Story
+During the service, the merchant loudly mocked the pastor and the word of God. As divine retribution, he was suddenly struck by a fatal stroke. He collapsed against one of the church's pillars and died on the spot, his blood splattering across the stone.
 
-  
+After his body had been removed, a deep-red **Blotplacken** (bloodstain) remained on the church wall.
 
-According to old legends from the [[Amt Rendsburg]], a wealthy
-
-but notoriously greedy merchant once stood inside
-
-[[St. Marienkirche]] during a church service.
-
-  
-
-During the service, the merchant loudly mocked the pastor and
-
-the word of God. As divine retribution, he was suddenly struck
-
-by a fatal stroke. He collapsed against one of the church's
-
-pillars and died on the spot, his blood splattering across the
-
-stone.
-
-  
-
-After his body had been removed, a deep-red **Blotplacken**
-
-(bloodstain) remained on the church wall.
-
-  
-
-The sexton attempted to remove the stain by scrubbing it with
-
-water. When this failed, he tried covering it with whitewash.
-
-However, after several days the blood would supposedly bleed
-
-through the lime again.
-
-  
+The sexton attempted to remove the stain by scrubbing it with water. When this failed, he tried covering it with whitewash However, after several days the blood would supposedly bleed through the lime again.
 
 According to the legend, the recurring stain remained as a
 
