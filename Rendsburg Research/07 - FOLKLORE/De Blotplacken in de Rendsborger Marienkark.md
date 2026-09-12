@@ -1,6 +1,7 @@
-#folklore #rendsburg / #büdelsdorf 
+#folklore #rendsburg
 
-# De Blotplacken in de Marienkark
+(*Generated with Google Gemini from a user-provided template; not idependently verified by the GSNC*)
+# De Blotplacken in de Rendsborger Marienkark
 > [!infobox]
 > **Type:** Church legend / supernatural bloodstain
 > **Location:** [[St. Marienkirche]]
