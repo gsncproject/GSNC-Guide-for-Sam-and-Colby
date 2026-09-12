@@ -27,43 +27,16 @@ The final phase of the Rendsburg persecution involved a young soldier accused of
 - **1616** — Seven women were executed in Rendsburg following accusations of magical aggression: Trine Kühl, Frauke Jebens, Dorteke Basch, Beke Base and her daughter Abelke, a woman named Langholt, and Wiebke Sievers.
 - **1622/1623** — Anke Gelen, together with her son and daughter, was accused of witchcraft. Legal intervention resulted in the accusations being rejected and the family being acquitted.
 - **1666** — Lene K. was arrested by the Rendsburg city authorities on suspicion of witchcraft. After refusing to confess during interrogation, she was eventually banished from the city.
-- **1721** — A 17-year-old soldier from Rostock serving in the Danish
-
-  army was accused of making a pact with the Devil. According to
-
-  Rolf Schulte's detailed account, he was executed by beheading in
-
-  Rendsburg in June 1721.
-
-- **1724** — Regional historical sources identify the execution of a
-
-  man in Rendsburg as the final execution of a person accused of
-
-  witchcraft in Schleswig-Holstein.
-
-  
-
+- **1721** — A 17-year-old soldier from Rostock serving in the Danish army was accused of making a pact with the Devil. According to Rolf Schulte's detailed account, he was executed by beheading in Rendsburg in June 1721.
+- **1724** — Regional historical sources identify the execution of a man in Rendsburg as the final execution of a person accused of witchcraft in Schleswig-Holstein.
 ## Location
-
-  
-
 [[Rendsburg]]
 
-  
-
-The trials were associated with the city of Rendsburg and the wider
-
-[[Amt Rendsburg]].
-
-  
+The trials were associated with the city of Rendsburg and the wider [[Amt Rendsburg]].
 
 Several events were connected with specific locations:
-
-  
-
 - [[Schlossplatz]] — associated with the alleged Devil's pact found
-
-  in the final case.
+in the final case.
 
 - [[Eider]] — associated with the historical practice of the
 
