@@ -117,25 +117,14 @@ The existence of historic burial areas should not be confused with claims of hid
 ### Marienkirchhof
 The area surrounding the church has historically been associated with burials.
 
-The 2023 discovery of at least 115 sets of human remains near
-Marienkirchhof demonstrated that forgotten historical burial
-sites can survive beneath later urban development.
-
+The 2023 discovery of at least 115 sets of human remains near Marienkirchhof demonstrated that forgotten historical burial sites can survive beneath later urban development.
 ## Local Accounts
+> "De Blotplacken" — According to local legend, a wealthy and notoriously greedy merchant mocked the pastor and the word of God during a service. He was suddenly struck by a fatal stroke and died after collapsing against a church pillar. His blood supposedly left a stain which repeatedly returned through whitewash.
 
-> "De Blotplacken" — According to local legend, a wealthy and
-> notoriously greedy merchant mocked the pastor and the word of
-> God during a service. He was suddenly struck by a fatal stroke
-> and died after collapsing against a church pillar. His blood
-> supposedly left a stain which repeatedly returned through
-> whitewash.
-
-**Source:** Traditional Rendsburg legend / [[De Blotplacken in de
-Marienkark]]
-
+**Source:** Traditional Rendsburg legend / [[De Blotplacken in de Rendsborger Marienkark]]
 ## Folklore
 
-### [[De Blotplacken in de Marienkark]]
+### [[De Blotplacken in de Rendsborger Marienkark]]
 
 A local legend tells of a wealthy merchant who mocked the pastor
 and Christianity during a service.
