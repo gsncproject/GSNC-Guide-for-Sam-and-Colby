@@ -9,30 +9,16 @@
 > **Coordinates:** 
 > **Status:** Existing
 ## Overview
+The [[St. Marienkirche]] is the oldest surviving church and the oldest surviving building in [[Rendsburg]]. It stands on the highest point of the historic Altstadt island.
 
-The [[St. Marienkirche]] is the oldest surviving church and the
-oldest surviving building in [[Rendsburg]]. It stands on the
-highest point of the historic Altstadt island.
+Construction of the present church began in 1287, following the destruction of an earlier church during the 1286 city fire. The present building developed into a three-aisled Gothic brick hall church, with the main construction completed during the late 13th and early 14th centuries.
 
-Construction of the present church began in 1287, following the
-destruction of an earlier church during the 1286 city fire. The
-present building developed into a three-aisled Gothic brick hall
-church, with the main construction completed during the late
-13th and early 14th centuries.
+The church is notable for its medieval architecture, historic artwork, epitaphs, baptismal font, altar, bells, and its long connection to the religious and civic history of Rendsburg.
 
-The church is notable for its medieval architecture, historic
-artwork, epitaphs, baptismal font, altar, bells, and its long
-connection to the religious and civic history of Rendsburg.
-
-It is also important to the GSNC/Rendsburg archive because the
-church and its surrounding area are connected to several local
-legends and historical events.
-
+It is also important to the GSNC/Rendsburg archive because the church and its surrounding area are connected to several local legends and historical events.
 ## Location
-
 **Address / Area:**  
 An der Marienkirche, Rendsburger Altstadt
-
 **Nearby Places:**
 - [[Altstädter Markt]]
 - [[Altes Rathaus]]
@@ -42,22 +28,15 @@ An der Marienkirche, Rendsburger Altstadt
 - [[Schiffbrückenplatz]]
 - [[Schlossplatz]]
 - [[Rendsburger Altstadt]]
-
 ## Construction & Origins
-
 **Built:** 1287–approximately 1335  
 **Original purpose:** Parish church / place of Christian worship  
 **Architect / builder:** Unknown  
 **Commissioned by:** Medieval Rendsburg parish/community
 
-A predecessor church existed at the site before the present
-building. It was destroyed during the major Rendsburg city fire
-of 1286.
+A predecessor church existed at the site before the present building. It was destroyed during the major Rendsburg city fire of 1286.
 
-Construction of the present St. Marienkirche began in 1287 on
-the highest point of the Altstadt island. The three-aisled brick
-hall and choir were completed around 1330–1335. The present
-vaulting dates to around 1350, while the tower was completed
+Construction of the present St. Marienkirche began in 1287 on the highest point of the Altstadt island. The three-aisled brick hall and choir were completed around 1330–1335. The present vaulting dates to around 1350, while the tower was completed
 later.
 
 ## History
