@@ -1,4 +1,4 @@
-#place #rendsburg / #büdelsdorf
+#location #rendsburg / #büdelsdorf
 
 # {{Place Name}}
 > [!infobox]
