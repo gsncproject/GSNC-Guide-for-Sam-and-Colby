@@ -65,64 +65,18 @@ The exact locations of individual executions are not established in this note an
 - **Claus Gude** — Rendsburg councillor involved in the 1593 proceedings.
 - **Unknown 17-year-old soldier from Rostock** — accused of making a Devil's pact; executed according to the detailed account.
 ## Consequences
+The witch trials resulted in executions, banishments, imprisonment, and the destruction of the lives and reputations of people accused of witchcraft.
 
-  
+The persecution also demonstrates the willingness of Rendsburg's authorities to use contemporary criminal law against accusations of magic. At the same time, legal scholars from outside Rendsburg occasionally challenged local proceedings and helped prevent convictions.
 
-The witch trials resulted in executions, banishments, imprisonment,
+By the 18th century, the traditional witchcraft accusations had changed considerably. The final Rendsburg case centered on an alleged Devil's pact rather than the earlier accusations of causing physical harm through magic.
 
-and the destruction of the lives and reputations of people accused of
-
-witchcraft.
-
-  
-
-The persecution also demonstrates the willingness of Rendsburg's
-
-authorities to use contemporary criminal law against accusations of
-
-magic. At the same time, legal scholars from outside Rendsburg
-
-occasionally challenged local proceedings and helped prevent
-
-convictions.
-
-  
-
-By the 18th century, the traditional witchcraft accusations had
-
-changed considerably. The final Rendsburg case centered on an alleged
-
-Devil's pact rather than the earlier accusations of causing physical
-
-harm through magic.
-
-  
-
-The 1724 execution is regarded by regional historical sources as the
-
-last execution connected with witchcraft in Rendsburg and the final
-
-witchcraft execution in Schleswig-Holstein.
-
-  
-
+The 1724 execution is regarded by regional historical sources as the last execution connected with witchcraft in Rendsburg and the final witchcraft execution in Schleswig-Holstein.
 ## Contemporary Reports
-
-  
-
-The surviving material includes municipal records, legal opinions,
-
-court documentation and financial records.
-
-  
+The surviving material includes municipal records, legal opinions, court documentation and financial records.
 
 Important contemporary or near-contemporary sources include:
-
-  
-
-- [[Rendsburg City Archive]] records concerning witchcraft
-
-  proceedings.
+- [[Rendsburg City Archive]] records concerning witchcraft proceedings.
 
 - The Rendsburg executioner's accounts, which recorded expenses
 
