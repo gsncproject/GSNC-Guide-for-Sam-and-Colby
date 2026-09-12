@@ -16,30 +16,9 @@ The persecution intensified during the early 17th century. In 1613, Abelke Plett
 
 In 1616, seven women were executed in Rendsburg in connection with accusations of magical aggression.
 
-  Not every accusation resulted in execution. In several cases,
+Not every accusation resulted in execution. In several cases, outside legal scholars intervened and accusations were rejected. The 1666 case of Lene K. is one example: after surviving an extremely abusive interrogation without confessing, she was ultimately banished from Rendsburg rather than executed.
 
-outside legal scholars intervened and accusations were rejected. The
-
-1666 case of Lene K. is one example: after surviving an extremely
-
-abusive interrogation without confessing, she was ultimately banished
-
-from Rendsburg rather than executed.
-
-  
-
-The final phase of the Rendsburg persecution involved a young soldier
-
-accused of making a pact with the Devil. A detailed historical account
-
-places his execution in June 1721, while broader regional histories
-
-identify 1724 as the final execution for witchcraft in Rendsburg.
-
-This discrepancy requires further investigation.
-
-  
-
+The final phase of the Rendsburg persecution involved a young soldier accused of making a pact with the Devil. A detailed historical account places his execution in June 1721, while broader regional histories identify 1724 as the final execution for witchcraft in Rendsburg.
 ## Timeline
 
   
