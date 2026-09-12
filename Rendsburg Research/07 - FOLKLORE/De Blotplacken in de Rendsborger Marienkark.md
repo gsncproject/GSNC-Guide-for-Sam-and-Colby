@@ -40,63 +40,20 @@ A wealthy and greedy merchant mocked the pastor and the word of God during a ser
 
 The church's long history, its association with generations of worshippers and burials, and the importance of Christianity in historical Rendsburg provide the cultural setting in which warning legend about disrespecting the church could develop.
 
-The story also reflects a common folkloric motif in which anindividual who commits a serious religious transgression receives
+The story also reflects a common folkloric motif in which an individual who commits a serious religious transgression receives an immediate supernatural punishment.
 
-an immediate supernatural punishment.
-
-  
-
-The alleged merchant, his death, and the supernatural persistence
-
-of the bloodstain should be treated as elements of the legend
-
-unless independent historical documentation is found.
-
-  
-
+The alleged merchant, his death, and the supernatural persistence of the bloodstain should be treated as elements of the legend unless independent historical documentation is found.
 ## Investigation
-
-  
-
 ### Evidence Supporting the Story
-
-  
-
 - The story is preserved as part of local Rendsburg folklore.
-
-- It is associated with the real historical site of
-
-  [[St. Marienkirche]].
-
-- The legend has a specific narrative rather than being only a
-
-  modern paranormal claim.
-
-- The recurring bloodstain is a central supernatural element of
-
-  the traditional story.
-
-  
-
+- It is associated with the real historical site of  [[St. Marienkirche]].
+- The legend has a specific narrative rather than being only a modern paranormal claim.
+- The recurring bloodstain is a central supernatural element of the traditional story.
 ### Alternative Explanations
-
-  
-
-- A historical stain could potentially have had a natural
-
-  physical cause.
-
-- Moisture, salts, pigments, or other materials beneath
-
-  whitewash could cause discoloration to reappear.
-
-- The story may have developed around an existing mark or
-
-  architectural feature.
-
-- Oral transmission may have added supernatural details over
-
-  time.
+- A historical stain could potentially have had a natural physical cause.
+- Moisture, salts, pigments, or other materials beneath whitewash could cause discoloration to reappear.
+- The story may have developed around an existing mark or  architectural feature.
+- Oral transmission may have added supernatural details over time.
 
   
 
