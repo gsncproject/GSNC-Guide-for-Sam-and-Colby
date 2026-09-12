@@ -20,12 +20,7 @@ Not every accusation resulted in execution. In several cases, outside legal scho
 
 The final phase of the Rendsburg persecution involved a young soldier accused of making a pact with the Devil. A detailed historical account places his execution in June 1721, while broader regional histories identify 1724 as the final execution for witchcraft in Rendsburg.
 ## Timeline
-
-  
-
-- **1593** — Lene Stubbe, Anneke Hagge and Anneke Duwe were accused
-
-  of magical manipulation and executed in June.
+- **1593** — Lene Stubbe, Anneke Hagge and Anneke Duwe were accused of magical manipulation and executed in June.
 
 - **1597** — Engelke Johansen and the unnamed wife of Detleff Mathias
 
