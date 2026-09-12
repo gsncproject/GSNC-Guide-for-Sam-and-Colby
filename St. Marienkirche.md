@@ -123,54 +123,28 @@ The 2023 discovery of at least 115 sets of human remains near Marienkirchhof dem
 
 **Source:** Traditional Rendsburg legend / [[De Blotplacken in de Rendsborger Marienkark]]
 ## Folklore
-
 ### [[De Blotplacken in de Rendsborger Marienkark]]
+A local legend tells of a wealthy merchant who mocked the pastor and Christianity during a service.
 
-A local legend tells of a wealthy merchant who mocked the pastor
-and Christianity during a service.
+After his sudden death, a bloodstain supposedly remained on the church wall. Attempts to remove or cover the stain allegedly failed because the blood repeatedly appeared through the whitewash.
 
-After his sudden death, a bloodstain supposedly remained on the
-church wall. Attempts to remove or cover the stain allegedly
-failed because the blood repeatedly appeared through the
-whitewash.
+The story functions as a warning against blasphemy and disrespecting the church.
 
-The story functions as a warning against blasphemy and
-disrespecting the church.
-
-The alleged supernatural bloodstain is part of local folklore
-and is not currently established as a documented supernatural
-phenomenon.
-
+The alleged supernatural bloodstain is part of local folklore and is not currently established as a documented supernatural phenomenon.
 ### Other Local Stories
-
-The church and [[Marienkirchhof]] form part of Rendsburg's wider
-body of legends concerning death, religious history, unexplained
-events and historical memory.
-
+The church and [[Marienkirchhof]] form part of Rendsburg's wider body of legends concerning death, religious history, unexplained events and historical memory.
 ## Personal Experiences
-
 ### 11 September 2026
-
 Visited St. Marienkirche with Josy.
 
-The original reason for entering the church was to verify whether
-the church had an associated cemetery.
+The original reason for entering the church was to verify whether the church had an associated cemetery.
 
-Josy wanted to light candles in remembrance of our deceased
-grandparents and the victims of the September 11, 2001 attacks.
+Josy wanted to light candles in remembrance of our deceased grandparents and the victims of the September 11, 2001 attacks.
 
-We both noticed that we felt calmer after spending time inside
-the church.
+We both noticed that we felt calmer after spending time inside the church.
 
-The visit was primarily a personal act of remembrance rather
-than a paranormal investigation.
-
-### 13 September 2026
-
-{{What happened during the second visit}}
-
+The visit was primarily a personal act of remembrance rather than a paranormal investigation.
 ## Media
-
 - Personal photographs of St. Marienkirche
 - Personal photographs of the interior
 - Photographs of [[Marienkirchhof]]
