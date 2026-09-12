@@ -9,7 +9,7 @@
 - [ ] — Amtmann Fuchs
 - [ ] — Reinholdsburg
 - [ ] — Garnisonsfriedhof
-- [ ] — St. Marienkirche
+- [x] — St. Marienkirche  [completion:: 2026-09-12]
 - [ ] — The 2020 Rendsburg double-murder
 - [ ] — Rendsburger Gefängnis
 - [ ] — Rendsburg Fires

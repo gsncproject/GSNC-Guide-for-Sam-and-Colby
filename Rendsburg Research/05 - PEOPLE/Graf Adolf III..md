@@ -1,6 +1,6 @@
 #person #rendsburg 
 
-
+(*Generated with ChatGPT from a user-provided template; not idependently verified by the GSNC*)
 # Adolf III. von Schauenburg
 >[!infobox]  
 >Born: 1160
