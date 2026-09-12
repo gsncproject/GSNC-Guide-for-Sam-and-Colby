@@ -1,4 +1,4 @@
-#gsnc #
+#gsnc #theory 
 
 Let‘s talk about [[Sam Golbach]]‘s attachment cuz I feel like no one talks about it anymore.
 
