@@ -10,3 +10,6 @@ But then again people also believe that because Sam did so many 3am challenges t
 
 Im not claiming that all those mentioned and not-mentioned theories are true. They still can be. As for me, I like to look at them to maybe figure out something people oversee. So here is the stuff I noticed, that I saw no one talk about:
 
+(*Disclaimer: For the further I’ll be focusing mainly on what people and SnC themselves believe is Sallie*) 
+
+What we all assume is that 
