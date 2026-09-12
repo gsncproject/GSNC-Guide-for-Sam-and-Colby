@@ -77,42 +77,16 @@ The surviving material includes municipal records, legal opinions, court documen
 
 Important contemporary or near-contemporary sources include:
 - [[Rendsburg City Archive]] records concerning witchcraft proceedings.
-
-- The Rendsburg executioner's accounts, which recorded expenses
-
-  connected with interrogations, prisoners and executions.
-
-- Legal opinions from the [[University of Rostock]] concerning
-
-  Rendsburg cases.
-
-- The [[Carolina]] / Constitutio Criminalis Carolina, which provided
-
-  part of the legal framework used in the Holy Roman Empire.
-
+- The Rendsburg executioner's accounts, which recorded expenses connected with interrogations, prisoners and executions.
+- Legal opinions from the [[University of Rostock]] concerning Rendsburg cases.
+- The [[Carolina]] / Constitutio Criminalis Carolina, which provided part of the legal framework used in the Holy Roman Empire.
 - Regional administrative records from the [[Amt Rendsburg]].
 
-  
-
-The 1616 executioner's account is particularly important because it
-
-documents expenses associated with the seven executions.
-
-  
-
+The 1616 executioner's account is particularly important because it documents expenses associated with the seven executions.
 ## Local Accounts
+The witch trials have contributed to the wider historical memory and folklore surrounding Rendsburg.
 
-  
-
-The witch trials have contributed to the wider historical memory and
-
-folklore surrounding Rendsburg.
-
-  
-
-Later local traditions may preserve stories about witches, magical
-
-acts, executions, and supernatural events, but these should be
+Later local traditions may preserve stories about witches, magical acts, executions, and supernatural events, but these should be
 
 distinguished from the surviving historical court records.
 
