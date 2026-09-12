@@ -54,65 +54,19 @@ The alleged merchant, his death, and the supernatural persistence of the bloodst
 - Moisture, salts, pigments, or other materials beneath whitewash could cause discoloration to reappear.
 - The story may have developed around an existing mark or  architectural feature.
 - Oral transmission may have added supernatural details over time.
-
-  
-
 ### Evidence Against
-
-  
-
-- No independently verified evidence has currently been found
-
-  proving that the merchant existed or that the alleged event
-
-  occurred.
-
-- No confirmed evidence has been found establishing that a
-
-  bloodstain repeatedly reappeared through whitewash.
-
-- The location of the alleged original stain is unclear today.
-
-- The supposed stain is reportedly hidden by later renovations,
-
-  making direct investigation difficult.
-
-  
-
+- No independently verified evidence has currently been found proving that the merchant existed or that the alleged event occurred.
+- No confirmed evidence has been found establishing that a bloodstain repeatedly reappeared through whitewash.
+- The location of the alleged original stain is unclear today
+- The supposed stain is reportedly hidden by later renovations, making direct investigation difficult.
 ## Earliest Known Reference
-
-  
-
-**Source:** Old legends from the [[Amt Rendsburg]]
-
-  
-
-The earliest written reference currently identified should be
-
-added here once the original source and publication date have
-
-been verified.
-
-  
-
+**Source:** Old legends from the [[Amt Rendsburg]].
 ## Related Legends
-
-  
-
 - [[The Ghost at the Well]]
-
 - [[The Leichenzug of Rendsburg]]
-
 - [[The White Lady of the Altstadt]]
-
-  
-
 ## Related Historical Events
-
-  
-
 - [[Rendsburg Fires]]
-
 - [[The Plague of 1712]]
 
 - [[1850 Cholera Pandemic]]
