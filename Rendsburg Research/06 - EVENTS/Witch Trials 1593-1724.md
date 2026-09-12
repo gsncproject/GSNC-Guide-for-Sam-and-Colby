@@ -21,47 +21,12 @@ Not every accusation resulted in execution. In several cases, outside legal scho
 The final phase of the Rendsburg persecution involved a young soldier accused of making a pact with the Devil. A detailed historical account places his execution in June 1721, while broader regional histories identify 1724 as the final execution for witchcraft in Rendsburg.
 ## Timeline
 - **1593** — Lene Stubbe, Anneke Hagge and Anneke Duwe were accused of magical manipulation and executed in June.
-
-- **1597** — Engelke Johansen and the unnamed wife of Detleff Mathias
-
-  were accused of bewitching Peter Kall. Legal scholars from the
-
-  University of Rostock rejected the accusations, and both women were
-
-  acquitted.
-
-- **1613** — Abelke Pletten of Fockbek was arrested and brought to
-
-  Rendsburg after being accused of causing illness, deaths of animals,
-
-  fires and the sinking of a boat through magic.
-
-- **1613** — Pletten confessed under coercion to various alleged acts
-
-  of magic and to a pact with the Devil. She died from the effects of
-
-  the abuse before her planned public execution.
-
-- **1616** — Seven women were executed in Rendsburg following
-
-  accusations of magical aggression: Trine Kühl, Frauke Jebens,
-
-  Dorteke Basch, Beke Base and her daughter Abelke, a woman named
-
-  Langholt, and Wiebke Sievers.
-
-- **1622/1623** — Anke Gelen, together with her son and daughter,
-
-  was accused of witchcraft. Legal intervention resulted in the
-
-  accusations being rejected and the family being acquitted.
-
-- **1666** — Lene K. was arrested by the Rendsburg city authorities
-
-  on suspicion of witchcraft. After refusing to confess during
-
-  interrogation, she was eventually banished from the city.
-
+- **1597** — Engelke Johansen and the unnamed wife of Detleff Mathias were accused of bewitching Peter Kall. Legal scholars from the University of Rostock rejected the accusations, and both women were acquitted.
+- **1613** — Abelke Pletten of Fockbek was arrested and brought to Rendsburg after being accused of causing illness, deaths of animals, fires and the sinking of a boat through magic.
+- **1613** — Pletten confessed under coercion to various alleged acts of magic and to a pact with the Devil. She died from the effects of the abuse before her planned public execution.
+- **1616** — Seven women were executed in Rendsburg following accusations of magical aggression: Trine Kühl, Frauke Jebens, Dorteke Basch, Beke Base and her daughter Abelke, a woman named Langholt, and Wiebke Sievers.
+- **1622/1623** — Anke Gelen, together with her son and daughter, was accused of witchcraft. Legal intervention resulted in the accusations being rejected and the family being acquitted.
+- **1666** — Lene K. was arrested by the Rendsburg city authorities on suspicion of witchcraft. After refusing to confess during interrogation, she was eventually banished from the city.
 - **1721** — A 17-year-old soldier from Rostock serving in the Danish
 
   army was accused of making a pact with the Devil. According to
