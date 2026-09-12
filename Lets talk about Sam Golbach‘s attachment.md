@@ -12,4 +12,8 @@ Im not claiming that all those mentioned and not-mentioned theories are true. Th
 
 (*Disclaimer: For the further I’ll be focusing mainly on what people and SnC themselves believe is Sallie*) 
 
-What we all assume is that 
+What we all assume is that Sallie started at the named alike Sallie House in Kansas.
+
+Sallie is apparently a little girl who died due to appendicitis. Though, people believe Sallie isn‘t a little girl but a rather darker entity pretending to be a child.
+
+We all seem to 
