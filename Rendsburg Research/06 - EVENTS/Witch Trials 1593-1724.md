@@ -35,22 +35,11 @@ The final phase of the Rendsburg persecution involved a young soldier accused of
 The trials were associated with the city of Rendsburg and the wider [[Amt Rendsburg]].
 
 Several events were connected with specific locations:
-- [[Schlossplatz]] — associated with the alleged Devil's pact found
-in the final case.
+- [[Schlossplatz]] — associated with the alleged Devil's pact found in the final case.
+- [[Eider]] — associated with the historical practice of the so-called water test.
+- [[Kronwerk]] / former Vinzier — associated with the 1613 accusations against Abelke Pletten.
 
-- [[Eider]] — associated with the historical practice of the
-
-  so-called water test.
-
-- [[Kronwerk]] / former Vinzier — associated with the 1613 accusations
-
-  against Abelke Pletten.
-
-  
-
-The exact locations of individual executions are not established in
-
-this note and require further research.
+The exact locations of individual executions are not established in this note and require further research.
 
   
 
