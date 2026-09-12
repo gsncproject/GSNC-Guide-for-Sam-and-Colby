@@ -15,54 +15,16 @@ After his body had been removed, a deep-red **Blotplacken** (bloodstain) remaine
 
 The sexton attempted to remove the stain by scrubbing it with water. When this failed, he tried covering it with whitewash However, after several days the blood would supposedly bleed through the lime again.
 
-According to the legend, the recurring stain remained as a
+According to the legend, the recurring stain remained as supernatural warning to the people of Rendsburg: the church was a sacred place, and those who mocked God or disrespected the sanctuary would face divine punishment.
 
-supernatural warning to the people of Rendsburg: the church
-
-was a sacred place, and those who mocked God or disrespected
-
-the sanctuary would face divine punishment.
-
-  
-
-The stain is said to have remained associated with
-
-[[St. Marienkirche]] for centuries. According to later tradition,
-
-modern renovations eventually concealed it, but the story of
-
-the mysterious bloodstain survived as part of Rendsburg's
-
-folklore.
-
-  
-
+The stain is said to have remained associated with [[St. Marienkirche]] for centuries. According to later tradition, modern renovations eventually concealed it, but the story of the mysterious bloodstain survived as part of Rendsburg's folklore.
 ## Location
-
-  
-
 [[St. Marienkirche]]
 
-  
+The legend takes place inside St. Marienkirche, particularly around one of the church's pillars/walls where the merchant's blood was supposedly left behind.
 
-The legend takes place inside St. Marienkirche, particularly
-
-around one of the church's pillars/walls where the merchant's
-
-blood was supposedly left behind.
-
-  
-
-[[Marienkirchhof]] is also associated with the church and forms
-
-part of the wider historical setting of the legend.
-
-  
-
+[[Marienkirchhof]] is also associated with the church and forms part of the wider historical setting of the legend.
 ## Reported Time Period
-
-  
-
 The exact historical date of the alleged event is unknown.
 
   
