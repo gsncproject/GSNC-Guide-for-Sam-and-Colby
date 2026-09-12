@@ -1,3 +1,5 @@
 Let‘s talk about [[Sam Golbach]]‘s attachment cuz I feel like no one talks about it anymore.
 
-(*Disclaimer: I will call Sam‘s attachment as „it“ for a reason. So j*)
+(*Disclaimer: I will call Sam‘s attachment as „it“ for a reason. So just don‘t be confused by it.*)
+
+Most people assume that Sam‘s attachment originates from [[The Sallie House]]. Some people still believe it, 
