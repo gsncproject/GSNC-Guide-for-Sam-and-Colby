@@ -96,62 +96,20 @@ In Schleswig-Holstein, witch persecutions began in 1530 and continued into the 1
 
 The number of prosecutions increased from around 1590 onward. One factor was the influence of contemporary theological writings about witchcraft. Samuel Meiger, who was born in Rendsburg, published a work on witchcraft in 1587 and advocated a considerably stricter approach toward alleged witchcraft.
 
-Rendsburg's legal authorities operated within the wider legal
+Rendsburg's legal authorities operated within the wider legal framework of the period. The Constitutio Criminalis Carolina of 1532 classified certain forms of alleged sorcery as criminal offenses and provided legal procedures for prosecution.
 
-framework of the period. The Constitutio Criminalis Carolina of 1532
+The early 17th century represented the most intense period of persecution in Rendsburg. The cases of Abelke Pletten in 1613 and the seven women executed in 1616 illustrate the severity of the period.
 
-classified certain forms of alleged sorcery as criminal offenses and
+However, the Rendsburg cases also demonstrate that accusations did not automatically result in execution. External legal scholars could intervene, and some accused people were acquitted or banished instead.
 
-provided legal procedures for prosecution.
-
-  
-
-The early 17th century represented the most intense period of
-
-persecution in Rendsburg. The cases of Abelke Pletten in 1613 and the
-
-seven women executed in 1616 illustrate the severity of the period.
-
-  
-
-However, the Rendsburg cases also demonstrate that accusations did
-
-not automatically result in execution. External legal scholars could
-
-intervene, and some accused people were acquitted or banished instead.
-
-  
-
-By the later 17th century, skepticism toward witchcraft prosecutions
-
-had become increasingly visible. The final cases therefore differed
-
-from the large-scale accusations of magical harm seen earlier in the
-
-century.
-
-  
-
+By the later 17th century, skepticism toward witchcraft prosecutions had become increasingly visible. The final cases therefore differed from the large-scale accusations of magical harm seen earlier in the century.
 ## Sources
-
-  
-
-- Rolf Schulte, **“Hexenverfolgung in Rendsburg”**, Demokratische
-
-  Geschichte, Band 13. 
-
-- [[Gesellschaft für Schleswig-Holsteinische Geschichte —
-
-  Hexenverfolgung in Schleswig-Holstein]]
-
+- Rolf Schulte, **“Hexenverfolgung in Rendsburg”**, Demokratische Geschichte, Band 13. 
+- [[Gesellschaft für Schleswig-Holsteinische Geschichte — Hexenverfolgung in Schleswig-Holstein]]
 - Stadtarchiv Rendsburg, Abteilung X 6, Nr. 221.
-
 - Stadtarchiv Rendsburg, Abteilung X 7, Nr. 237.
-
 - Stadtarchiv Rendsburg, Abteilung X 7, Nr. 239.
-
 - Stadtarchiv Rendsburg, Abteilung X 7, Nr. 270.
-
 - Landesarchiv Schleswig-Holstein, Amtsrechnung 104 / Rendsburg.
 
 - Universitätsbibliothek Rostock, legal opinions concerning the
