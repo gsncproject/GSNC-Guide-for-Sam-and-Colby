@@ -97,44 +97,25 @@ The discovery has been connected with the [[1644 Sweden Siege]] of Rendsburg. Th
 ## People Connected
 - **Henning Clausen** — Woodcarver who created the main altar.
 - **Elisabeth Behling** — Donor of the 1649 main altar.
-- **Hans Peper** — Rendsburg woodcarver whose work includes
-  epitaphs and the pulpit.
+- **Hans Peper** — Rendsburg woodcarver whose work includes epitaphs and the pulpit.
 - **Hans Gude** — Mayor who donated the historic pulpit.
-- **Samuel Meiger** — Rendsburg-born pastor and writer; connected
-  to the wider religious and witchcraft history of the city.
-- **Rainer Karstens** — Pastor associated with the present
-  Kirchengemeinde Rendsburg and the church's current activities.
-
+- **Samuel Meiger** — Rendsburg-born pastor and writer; connected to the wider religious and witchcraft history of the city.
+- **Rainer Karstens** — Pastor associated with the present Kirchengemeinde Rendsburg and the church's current activities.
 ## Notable Events
-
-- [[Rendsburg Fires]] — The predecessor church was destroyed in
-  the 1286 city fire.
-- [[1644 Sweden Siege]] — The surrounding Altstadt was affected
-  by the siege and its consequences.
-- [[Witch Trials in Rendsburg, 1593–1724]] — Part of the wider
-  religious and judicial history of early modern Rendsburg.
-- [[De Blotplacken in de Marienkark]] — Local legend associated
-  with the church.
+- [[Rendsburg Fires]] — The predecessor church was destroyed in the 1286 city fire.
+- [[1644 Sweden Siege]] — The surrounding Altstadt was affected by the siege and its consequences.
+- [[Witch Trials in Rendsburg, 1593–1724]] — Part of the wider religious and judicial history of early modern Rendsburg.
+- [[De Blotplacken in de Marienkark]] — Local legend associated with the church.
 - [[1644 Burial Discovery]] — Human remains discovered near
   [[Marienkirchhof]] in 2023.
-- [[St. Marien Personal Visit — 11 September 2026]] — Personal
-  visit with Josy.
-
 ## Underground / Hidden Structures
+No confirmed secret tunnels or paranormal underground structures are documented in the sources currently consulted.
 
-No confirmed secret tunnels or paranormal underground structures
-are documented in the sources currently consulted.
+The church has historic architectural spaces and its surrounding area has a long history of burial.
 
-The church has historic architectural spaces and its surrounding
-area has a long history of burial.
-
-The existence of historic burial areas should not be confused
-with claims of hidden supernatural structures.
-
+The existence of historic burial areas should not be confused with claims of hidden supernatural structures.
 ### Marienkirchhof
-
-The area surrounding the church has historically been associated
-with burials.
+The area surrounding the church has historically been associated with burials.
 
 The 2023 discovery of at least 115 sets of human remains near
 Marienkirchhof demonstrated that forgotten historical burial
