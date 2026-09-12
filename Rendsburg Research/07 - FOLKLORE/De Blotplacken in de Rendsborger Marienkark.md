@@ -27,81 +27,20 @@ The legend takes place inside St. Marienkirche, particularly around one of the c
 ## Reported Time Period
 The exact historical date of the alleged event is unknown.
 
-  
-
-The story is presented as an old legend from the [[Amt Rendsburg]]
-
-and was preserved through local tradition rather than as a
-
-documented historical event.
-
-  
-
+The story is presented as an old legend from the [[Amt Rendsburg]] and was preserved through local tradition rather than as a documented historical event.
 ## Accounts
-
-  
-
 ### Account #1
-
-  
-
 **Person:** Anonymous / traditional account  
-
 **Date:** Unknown  
-
 **Source:** Old legend from the Amt Rendsburg  
-
 **Description:**  
-
-A wealthy and greedy merchant mocked the pastor and the word of
-
-God during a service at St. Marienkirche. He was suddenly struck
-
-by a fatal stroke, collapsed against a pillar and died. His blood
-
-supposedly left a stain that repeatedly returned through
-
-whitewash.
-
-  
-
-### Account #2
-
-  
-
-**Person:**  
-
-**Date:**  
-
-**Source:**  
-
-**Description:**  
-
-  
-
+A wealthy and greedy merchant mocked the pastor and the word of God during a service at St. Marienkirche. He was suddenly struck by a fatal stroke, collapsed against a pillar and died. His blood supposedly left a stain that repeatedly returned through whitewash.
 ## Historical Context
+[[St. Marienkirche]] is one of Rendsburg's oldest churches and has been an important religious site for centuries.
 
-  
+The church's long history, its association with generations of worshippers and burials, and the importance of Christianity in historical Rendsburg provide the cultural setting in which warning legend about disrespecting the church could develop.
 
-[[St. Marienkirche]] is one of Rendsburg's oldest churches and
-
-has been an important religious site for centuries.
-
-  
-
-The church's long history, its association with generations of
-
-worshippers and burials, and the importance of Christianity in
-
-historical Rendsburg provide the cultural setting in which a
-
-warning legend about disrespecting the church could develop.
-
-  
-
-The story also reflects a common folkloric motif in which an
-
-individual who commits a serious religious transgression receives
+The story also reflects a common folkloric motif in which anindividual who commits a serious religious transgression receives
 
 an immediate supernatural punishment.
 
