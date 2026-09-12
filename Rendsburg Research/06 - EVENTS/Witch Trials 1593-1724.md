@@ -1,59 +1,22 @@
 #historical_event #rendsburg 
 
-
+(*Generated with Google Gemini from a user-provided template; not idependently verified by the GSNC*)
 # Witch Trials in Rendsburg, 1593–1724
-
 > [!infobox]
-
 > **Date:** 1593–1724
-
 > **Location:** [[Rendsburg]] and the surrounding [[Amt Rendsburg]]
-
 > **Type:** Witch persecution / judicial proceedings
-
 > **Period:** Early Modern Period
-
-  
-
 ## Summary
+Between the late 16th and early 18th centuries, people in Rendsburg and the surrounding Amt Rendsburg were accused and prosecuted for alleged witchcraft, sorcery, magical harm, and association with the Devil.
 
-  
+The first documented executions in Rendsburg took place in June 1593, when Lene Stubbe, Anneke Hagge and Anneke Duwe were executed following accusations of magical manipulation.
 
-Between the late 16th and early 18th centuries, people in Rendsburg
+The persecution intensified during the early 17th century. In 1613, Abelke Pletten of Fockbek was accused of causing illness, deaths of animals, fires and the sinking of a boat through magic. She was tortured and died from the consequences before her planned execution.
 
-and the surrounding Amt Rendsburg were accused and prosecuted for
+In 1616, seven women were executed in Rendsburg in connection with accusations of magical aggression.
 
-alleged witchcraft, sorcery, magical harm, and association with the
-
-Devil.
-
-  
-
-The first documented executions in Rendsburg took place in June 1593,
-
-when Lene Stubbe, Anneke Hagge and Anneke Duwe were executed following
-
-accusations of magical manipulation.
-
-  
-
-The persecution intensified during the early 17th century. In 1613,
-
-Abelke Pletten of Fockbek was accused of causing illness, deaths of
-
-animals, fires and the sinking of a boat through magic. She was
-
-tortured and died from the consequences before her planned execution.
-
-  
-
-In 1616, seven women were executed in Rendsburg in connection with
-
-accusations of magical aggression.
-
-  
-
-Not every accusation resulted in execution. In several cases,
+  Not every accusation resulted in execution. In several cases,
 
 outside legal scholars intervened and accusations were rejected. The
 
