@@ -36,47 +36,27 @@ An der Marienkirche, Rendsburger Altstadt
 
 A predecessor church existed at the site before the present building. It was destroyed during the major Rendsburg city fire of 1286.
 
-Construction of the present St. Marienkirche began in 1287 on the highest point of the Altstadt island. The three-aisled brick hall and choir were completed around 1330–1335. The present vaulting dates to around 1350, while the tower was completed
-later.
-
+Construction of the present St. Marienkirche began in 1287 on the highest point of the Altstadt island. The three-aisled brick hall and choir were completed around 1330–1335. The present vaulting dates to around 1350, while the tower was completed later.
 ## History
-
 ### Before 1286
+A predecessor church stood at the site before the construction of the present St. Marienkirche.
 
-A predecessor church stood at the site before the construction
-of the present St. Marienkirche.
-
-Historical sources indicate that a church already existed here
-before the major city fire of 1286.
-
+Historical sources indicate that a church already existed here before the major city fire of 1286.
 ### 1286 — City Fire
+A major fire destroyed the predecessor church along with large parts of Rendsburg.
 
-A major fire destroyed the predecessor church along with large
-parts of Rendsburg.
-
-The destruction was followed by the rebuilding of the church and
-the surrounding city.
-
+The destruction was followed by the rebuilding of the church and the surrounding city.
 ### 1287 — Construction Begins
-
 Construction of the present St. Marienkirche began.
 
-The church was built on the highest point of the Altstadt island,
-making it a prominent landmark within medieval Rendsburg.
-
+The church was built on the highest point of the Altstadt island, making it a prominent landmark within medieval Rendsburg.
 ### c. 1330–1335 — Church Completed
-
 The three-aisled Gothic brick hall and choir were completed.
-
 ### c. 1350 — Vaulting
-
 The present vaulting was constructed.
-
 ### 1454 — Tower
-
 The church tower was completed in the 15th century according to
 the Kirchenkreis Rendsburg-Eckernförde.
-
 ### Reformation
 
 During the Reformation, several of the church's side altars
