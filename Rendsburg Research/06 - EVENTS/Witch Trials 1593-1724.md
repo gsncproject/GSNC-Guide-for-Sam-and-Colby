@@ -50,47 +50,20 @@ The exact locations of individual executions are not established in this note an
 - **Abelke Pletten** — woman from Fockbek accused in 1613; died after torture.
 - **Heinrich Plön** — accused as a male witch / alleged Devil's confederate in 1613.
 - **Carsten Siepke** — possibly accused alongside Heinrich Plön in 1613.
-
 - **Trine Kühl** — executed in 1616.
-
 - **Frauke Jebens** — executed in 1616.
-
 - **Dorteke Basch** — executed in 1616.
-
 - **Beke Base** — executed in 1616.
-
 - **Abelke Base** — daughter of Beke Base; executed in 1616.
-
 - **Woman Langholt** — executed in 1616.
-
 - **Wiebke Sievers** — executed in 1616.
-
 - **Anke Gelen** — accused together with her children; acquitted.
-
 - **Lene K.** — accused in 1666; ultimately banished from Rendsburg.
-
-- **Heinrich Michaelis** — Kiel legal scholar who provided a legal
-
-  opinion concerning the 1666 case.
-
-- **Samuel Meiger** — Rendsburg-born Lutheran pastor and writer whose
-
-  1587 work advocated a stricter approach toward alleged witchcraft.
-
-- **Hans von Erfurt** — Rendsburg councillor involved in the 1593
-
-  proceedings.
-
-- **Claus Gude** — Rendsburg councillor involved in the 1593
-
-  proceedings.
-
-- **Unknown 17-year-old soldier from Rostock** — accused of making a
-
-  Devil's pact; executed according to the detailed account.
-
-  
-
+- **Heinrich Michaelis** — Kiel legal scholar who provided a legal opinion concerning the 1666 case.
+- **Samuel Meiger** — Rendsburg-born Lutheran pastor and writer whose 1587 work advocated a stricter approach toward alleged witchcraft.
+- **Hans von Erfurt** — Rendsburg councillor involved in the 1593 proceedings.
+- **Claus Gude** — Rendsburg councillor involved in the 1593 proceedings.
+- **Unknown 17-year-old soldier from Rostock** — accused of making a Devil's pact; executed according to the detailed account.
 ## Consequences
 
   
