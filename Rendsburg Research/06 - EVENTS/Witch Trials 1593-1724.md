@@ -127,39 +127,15 @@ By the later 17th century, skepticism toward witchcraft prosecutions had become 
 - [[Rendsburg Fires]]
 - [[The Soldier that made a deal with the Devil]]
 - [[Headless Sentry of the Bastion]]
-
-  
-
 ## Open Questions
-
-  
-
 - [ ] Why does the regional historical source identify **1724** as
-
-      the final execution while Schulte's detailed account dates the
-
-      Rendsburg soldier's execution to **June 1721**?
-
+the final execution while Schulte's detailed account dates the Rendsburg soldier's execution to **June 1721**?
 - [ ] Who was the 17-year-old soldier executed in the final case?
-
-- [ ] Can his name be established from the original military-court
-
-      records?
-
+- [ ] Can his name be established from the original military-court records?
 - [ ] Where exactly did the 1593 executions take place?
-
 - [ ] Where were the 1616 executions carried out?
-
 - [ ] What happened to the surviving families of the people executed?
-
-- [ ] Are there additional Rendsburg witchcraft proceedings not
-
-      covered by Schulte's overview?
-
+- [ ] Are there additional Rendsburg witchcraft proceedings not covered by Schulte's overview?
 - [ ] Can the original Rendsburg City Archive records be examined?
-
 - [ ] Are any of the accused connected to surviving local legends?
-
-- [ ] What role did Rendsburg-born Samuel Meiger's writings play in
-
-      the development of local persecution?
+- [ ] What role did Rendsburg-born Samuel Meiger's writings play in the development of local persecution?
