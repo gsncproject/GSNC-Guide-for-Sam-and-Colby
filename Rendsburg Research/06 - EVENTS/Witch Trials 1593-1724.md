@@ -111,47 +111,21 @@ By the later 17th century, skepticism toward witchcraft prosecutions had become 
 - Stadtarchiv Rendsburg, Abteilung X 7, Nr. 239.
 - Stadtarchiv Rendsburg, Abteilung X 7, Nr. 270.
 - Landesarchiv Schleswig-Holstein, Amtsrechnung 104 / Rendsburg.
-
-- Universitätsbibliothek Rostock, legal opinions concerning the
-
-  Rendsburg witchcraft proceedings.
-
-- Heinrich Michaelis, *Responsorum sive deducctorum Juris
-
-  Kiloniensium*, 1673.
-
-- Samuel Meiger, *De Panurgia Lamiarum, Sagarum, Strigum ac
-
-  Veneficarum*, 1587.
-
-  
-
+- Universitätsbibliothek Rostock, legal opinions concerning the Rendsburg witchcraft proceedings.
+- Heinrich Michaelis, *Responsorum sive deducctorum Juris Kiloniensium*, 1673.
+- Samuel Meiger, *De Panurgia Lamiarum, Sagarum, Strigum ac Veneficarum*, 1587.
 ## Connected Notes
-
-  
-
 - [[Rendsburg]]
-
 - [[Amt Rendsburg]]
-
 - [[Samuel Meiger]]
-
 - [[Lene Stubbe]]
-
 - [[Anneke Hagge]]
-
 - [[Anneke Duwe]]
-
 - [[Abelke Pletten]]
-
 - [[Lene K.]]
-
 - [[Schlossplatz]]
-
 - [[Rendsburg Fires]]
-
 - [[The Soldier that made a deal with the Devil]]
-
 - [[Headless Sentry of the Bastion]]
 
   
