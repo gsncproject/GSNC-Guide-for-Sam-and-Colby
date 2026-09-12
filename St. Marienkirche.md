@@ -179,38 +179,26 @@ The visit was primarily a personal act of remembrance rather than a paranormal i
 - [[Rendsburg]]
 ## Open Questions
 - [ ] What was the exact location of the predecessor church?
-- [ ] What is the earliest surviving written description of the  predecessor church?
+- [ ] What is the earliest surviving written description of the predecessor church?
 - [ ] What was the original appearance of the 1287 church?
 - [ ] What architectural changes were made between the medieval period and today?
-- [ ] What is the exact history of the church tower between its
-      medieval construction and later renovations?
-- [ ] Where exactly was the historical [[Marienkirchhof]] located
-      in relation to the modern street layout?
+- [ ] What is the exact history of the church tower between its medieval construction and later renovations?
+- [ ] Where exactly was the historical [[Marienkirchhof]] located in relation to the modern street layout?
 - [ ] Are there surviving records of burials around the church?
-- [ ] What is the earliest written version of
-      [[De Blotplacken in de Marienkark]]?
+- [ ] What is the earliest written version of  [[De Blotplacken in de Rendsborger Marienkark]]?
 - [ ] Is there any historical evidence for the alleged merchant?
 - [ ] Where was the alleged Blotplacken supposedly located?
-- [ ] Are there additional legends associated specifically with
-      St. Marienkirche?
-- [ ] What further information can be found about the 1644 burial
-      site?
-- [ ] Are there historical photographs showing parts of the church
-      that have since been altered?
-
+- [ ] Are there additional legends associated specifically with St. Marienkirche?
+- [ ] What further information can be found about the 1644 burial site?
+- [ ] Are there historical photographs showing parts of the church that have since been altered?
 ## Research Notes
-
-St. Marienkirche should be treated as both a historical location
-and a folklore location in the GSNC archive.
+St. Marienkirche should be treated as both a historical location and a folklore location in the GSNC archive.
 
 The distinction between the two is important:
 
-**Documented history:** The church was built beginning in 1287,
-has medieval architectural elements, historic furnishings,
-epitaphs and a long connection to Rendsburg.
+**Documented history:** The church was built beginning in 1287, has medieval architectural elements, historic furnishings, epitaphs and a long connection to Rendsburg.
 
-**Folklore:** Stories such as [[De Blotplacken in de Marienkark]]
-attribute supernatural meaning to events supposedly occurring
+**Folklore:** Stories such as [[De Blotplacken in de Rendsborger Marienkark]] attribute supernatural meaning to events supposedly occurring
 inside the church.
 
 **Personal experience:** Visits to the church and observations
