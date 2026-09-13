@@ -27,4 +27,7 @@
 27. The Sallie Lucy Theory.
 28. Adam‘s Theory.
 29. Too deep to crawl back out again, so deep that I literally start crying when Sallie gets mentioned in Sam and Colby videos. That theory traumatized me on diff level-
-30. That we thought
+30. That we thought Lucys name was Lucy Golbach cuz it introduced itself like that.
+31. Stanley Hotel Return.
+32. About 99% aged terribly…
+33. The Sallie LU
