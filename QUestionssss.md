@@ -59,4 +59,4 @@
 59. If it fits and makes actual sense, yes.
 60. Yes.
 61. I have 74 folders… MIGHT AS WELL REORG ALL 
-62. I would want them to understand that I didn‘t entirely do 
+62. I would want them to understand that I didn‘t entirely do this project because I am a fan, I did it because I wanted to see how much I can figure out that they still have no idea of.
