@@ -46,4 +46,9 @@
 46. Yes and no.
 47. Yes.
 48. Yes, the Stanley Hotel.
-49. The Conjur
+49. The Conjuring House.
+50. Very.
+51. Nope.
+52. Not really.
+53. Meh, idk. I feel like some of it is relevant but some isnt.
+54. 
