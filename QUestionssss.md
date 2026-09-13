@@ -30,4 +30,7 @@
 30. That we thought Lucys name was Lucy Golbach cuz it introduced itself like that.
 31. Stanley Hotel Return.
 32. About 99% aged terribly…
-33. The Sallie LU
+33. The Sallie Lucy Theory.
+34. That Sam is my cousin (which weirdly enough turned out to be true)
+35. That Sallie and Lucy might be the same, and that Sam will learn from „her“.
+36. I feel partly embarre
