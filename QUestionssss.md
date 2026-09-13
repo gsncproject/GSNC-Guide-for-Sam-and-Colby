@@ -42,4 +42,8 @@
 42. Merely observations (Patrick Jane hehe)
 43. Yes.
 44. Yes.
-45. 
+45. Yes.
+46. Yes and no.
+47. Yes.
+48. Yes, the Stanley Hotel.
+49. The Conjur
