@@ -25,4 +25,6 @@
 25. Yes for example the Sallie Lucy Theory.
 26. The Sallie Lucy Theory.
 27. The Sallie Lucy Theory.
-28. Too deep to crawl back out again, so deep that I literally start crying when Sallie gets mentioned in Sam and Colby videos. That theory traumatized me on diff lev
+28. Adam‘s Theory.
+29. Too deep to crawl back out again, so deep that I literally start crying when Sallie gets mentioned in Sam and Colby videos. That theory traumatized me on diff level-
+30. That we thought
