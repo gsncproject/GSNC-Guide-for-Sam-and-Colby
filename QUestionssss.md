@@ -10,4 +10,6 @@
 10. Yes. If something appears twice, even years apart from each other I‘ll track it.
 11. Yes, most definitely, that is one of the main goals for the GSNC.
 12. Yes.
-13. 
+13. Yes, and I established it like just now, when reading the question so I need to update A FUCKING LOT 
+14. Everything surrounding Sallie Lucy, Sam, and me.
+15. Sallie Lucy —>
