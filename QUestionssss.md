@@ -16,6 +16,7 @@
 16. I try to debunk it, but when I can‘t simply debunk it no matter how much I overthink it, I position myself on the paranormal opinion.
 17. I think so.
 18. Yep, I try my best to do so
-19. 
+19. I write it down and let it rot until it becomes important, if it never becomes important it just continues to rot.
 20. Both, but I do love debunking things.
-21. 
+21. Both.
+22. Roughly I‘d say 5
