@@ -53,4 +53,8 @@
 53. Meh, idk. I feel like some of it is relevant but some isnt.
 54. A LOT OF Things
 55. Yes and no, cuz the original OG Notebook does hold the beginnings of our investigations.
-56. Because Sam and Colby get mentioned a lot during investigat
+56. Because Sam and Colby get mentioned a lot during investigations in RD/BDF.
+57. It does have its independent structure, but as said I might have to rethink everything again.
+58. Yes.
+59. If it fits and makes actual sense, yes.
+60. 
