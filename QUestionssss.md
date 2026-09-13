@@ -13,4 +13,9 @@
 13. Yes, and I established it like just now, when reading the question so I need to update A FUCKING LOT 
 14. Everything surrounding Sallie Lucy, Sam, and me.
 15. Sallie Lucy —> Stanley Hotel (I actually think that was kinda the missing piece)
-16. I try to debunk it, but when I can‘t simply debunk it no matter how much I overthink it, I 
+16. I try to debunk it, but when I can‘t simply debunk it no matter how much I overthink it, I position myself on the paranormal opinion.
+17. I think so.
+18. Yep, I try my best to do so
+19. 
+20. Both, but I do love debunking things.
+21. 
