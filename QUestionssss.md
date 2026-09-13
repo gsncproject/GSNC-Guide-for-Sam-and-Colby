@@ -39,4 +39,7 @@
 39. Not really, but i think I should
 40. I wanted but meh
 41. Yes.
-42. Merely observations (Patrick Jane)
+42. Merely observations (Patrick Jane hehe)
+43. Yes.
+44. Yes.
+45. 
