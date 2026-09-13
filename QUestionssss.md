@@ -6,4 +6,8 @@
 6. I used to delete it but now I realized even old stuff is just the way to where ur at right now, so by now I rather preserve it.
 7. Yes and no.
 8. I track patterns, entites, etc
-9. 
+9. Put like that? Yes.
+10. Yes. If something appears twice, even years apart from each other I‘ll track it.
+11. Yes, most definitely, that is one of the main goals for the GSNC.
+12. Yes.
+13. 
