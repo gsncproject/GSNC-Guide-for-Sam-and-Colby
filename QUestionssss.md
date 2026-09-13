@@ -57,4 +57,6 @@
 57. It does have its independent structure, but as said I might have to rethink everything again.
 58. Yes.
 59. If it fits and makes actual sense, yes.
-60. 
+60. Yes.
+61. I have 74 folders… MIGHT AS WELL REORG ALL 
+62. I would want them to understand that I didn‘t entirely do 
