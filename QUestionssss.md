@@ -36,4 +36,7 @@
 36. I feel partly embaressed, help.
 37. Both.
 38. Yeah… (dont remind me of Sam‘s grandma thing)
-39. 
+39. Not really, but i think I should
+40. I wanted but meh
+41. Yes.
+42. Merely observations (Patrick Jane∞@∆)
