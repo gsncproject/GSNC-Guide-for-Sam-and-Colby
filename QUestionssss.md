@@ -33,4 +33,7 @@
 33. The Sallie Lucy Theory.
 34. That Sam is my cousin (which weirdly enough turned out to be true)
 35. That Sallie and Lucy might be the same, and that Sam will learn from „her“.
-36. I feel partly embarre
+36. I feel partly embaressed, help.
+37. Both.
+38. Yeah… (dont remind me of Sam‘s grandma thing)
+39. 
