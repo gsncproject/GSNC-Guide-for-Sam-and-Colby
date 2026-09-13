@@ -12,4 +12,5 @@
 12. Yes.
 13. Yes, and I established it like just now, when reading the question so I need to update A FUCKING LOT 
 14. Everything surrounding Sallie Lucy, Sam, and me.
-15. Sallie Lucy —>
+15. Sallie Lucy —> Stanley Hotel (I actually think that was kinda the missing piece)
+16. I try to debunk it, but when I can‘t simply debunk it no matter how much I overthink it, I 
