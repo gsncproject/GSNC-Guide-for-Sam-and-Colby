@@ -19,4 +19,8 @@
 19. I write it down and let it rot until it becomes important, if it never becomes important it just continues to rot.
 20. Both, but I do love debunking things.
 21. Both.
-22. Roughly I‘d say 5
+22. Roughly I‘d say 5-8.
+23. Yes, they do 
+24. Yes and no, its always the same note but it does get updates.
+25. Yes for example the Sallie Lucy Theory.
+26. The Sallie Lucy Theory.
