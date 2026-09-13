@@ -51,4 +51,6 @@
 51. Nope.
 52. Not really.
 53. Meh, idk. I feel like some of it is relevant but some isnt.
-54. 
+54. A LOT OF Things
+55. Yes and no, cuz the original OG Notebook does hold the beginnings of our investigations.
+56. Because Sam and Colby get mentioned a lot during investigat
